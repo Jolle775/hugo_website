@@ -1,0 +1,191 @@
+<div class="calculator-container pure-form pure-form-stacked">
+  <div class="inner-calc">
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Date of first registration <sub>*</sub
+          ><span class="tooltiptext"
+            ><strong>Date of first registration (Erstzulassung - EZ)</strong
+            ><br />The date your vehicle was first registered. This information
+            can be found on your permit certificate.</span
+          ></label
+        >
+
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarRegistrationSelect"
+          name="engine-type"
+        >
+          <option value="">Please select</option>
+          <option value="a1">EZ before 30.06.2009</option>
+          <option value="a2">EZ 01.07.2009 till 31.12.2011</option>
+          <option value="a3">EZ 01.01.2012 till 31.12.2013</option>
+          <option value="a4">01.01.2014 till 31.12.2020</option>
+          <option value="a5">01.01.2021 and later</option>
+        </select>
+      </div>
+      <div class="qm-md-6-12 qm-sm-12-12 p-l-10">
+        <label class="tooltip"
+          >Engine capacity in ccm <sub>*</sub
+          ><span class="tooltiptext"
+            >Please enter your engine size. You can find this on your permit
+            certificate (&quot;Zulassungsbescheinigung&quot;) under Part I,
+            Section P.1.</span
+          ></label
+        >
+        <input
+          class="qm-sm-12-12 numeric-input jsCalcCarDisplacementInput"
+          type="number"
+          name="displacement"
+        />
+      </div>
+    </div>
+
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Fuel type <sub>*</sub
+          ><span class="tooltiptext"
+            >Please select the fuel type of your vehicle.</span
+          ></label
+        >
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarEngineSelect"
+          name="engine-type"
+        >
+          <option value="">Please select</option>
+          <option value="c1">Gasoline / Petrol / Wankel</option>
+          <option value="c2">Diesel engine</option>
+        </select>
+      </div>
+
+      <div class="qm-md-6-12 qm-sm-12-12 p-l-10">
+        <div class="jsCalcCarEmission" hidden>
+          <label class="tooltip"
+            >Emission class <sub>*</sub
+            ><span class="tooltiptext"
+              ><strong>Emission class</strong><br />Please select the emission
+              class of your vehicle. You can find this information on your
+              permit certificate under Part I, Section 14. For permits issued
+              before 2005, this information can be found in section 1.</span
+            ></label
+          >
+          <select
+            class="form-control qm-sm-12-12 jsCalcCarEmissionSelect"
+            name="emmision-class"
+          >
+            <option value="">Please select</option>
+            <option value="b1">Euro 3, D3 or better</option>
+            <option value="b2">Euro 2</option>
+            <option value="b3">Euro 1</option>
+            <option value="b4">
+              Euro 0 (with permission while ozone warning)
+            </option>
+            <option value="b5">all other</option>
+          </select>
+        </div>
+        <div class="jsCalcCarCo2" hidden>
+          <label class="tooltip"
+            >CO2 emissions in g/km <sub>*</sub
+            ><span class="tooltiptext"
+              >Please enter the CO2 emissions of your vehicle. This information
+              can be found on your permit certificate
+              (&quot;Zulassungsbescheinigung&quot;) under Part I, Section
+              V.7.<br /><br />Tax allowance deduction are as follows:<br />Vehicles
+              registered 01 July 2009 - 31st December 2011: 120 g/km<br />Vehicles
+              registered 01 January 2012 - 31st December 2013: 110 g/km<br />Vehicles
+              registered after 01st January 2014: 95 g/km</span
+            ></label
+          >
+          <input
+            class="qm-sm-12-12 numeric-input jsCalcCarCo2Input"
+            type="number"
+            name="co2-emissions"
+          />
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <div class="pure-g">
+          <div class="qm-md-12-12 qm-sm-12-12">
+            <label class="tooltip"
+              >Registration period<span class="tooltiptext"
+                ><strong>Seasonal registration</strong><br />You may register
+                your vehicle for less than 12 months. You can choose to register
+                between 2 and 11 months. You are allowed to use your car on
+                public roads during this period.</span
+              ></label
+            >
+          </div>
+          <div class="button-group qm-sm-12-12 seasonbuttons" role="group">
+            <button
+              class="button qm-sm-6-12 jsCalcCarStandardBtn button-active"
+              type="submit"
+              name="button_1"
+            >
+              Standard
+            </button>
+            <button
+              class="button qm-sm-6-12 jsCalcCarSeasonalBtn"
+              type="submit"
+              name="button_2"
+            >
+              Seasonal
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g row jsCalcCarMonths" id="season-div" hidden>
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-r-10" role="group">
+        <label for="month_from">from</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarMonthsSelectFrom"
+          name="month_from"
+          id="month_from"
+        >
+          <option value="1" selected>January</option>
+          <option value="2">February</option>
+          <option value="3">March</option>
+          <option value="4">April</option>
+          <option value="5">Mai</option>
+          <option value="6">June</option>
+          <option value="7">July</option>
+          <option value="8">August</option>
+          <option value="9">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+        </select>
+      </div>
+
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-l-10" role="group">
+        <label for="month_to">to</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarMonthsSelectTo"
+          name="month_to"
+          id="month_to"
+        >
+          <option value="2">February</option>
+          <option value="3">March</option>
+          <option value="4">April</option>
+          <option value="5">Mai</option>
+          <option value="6">June</option>
+          <option value="7">July</option>
+          <option value="8">August</option>
+          <option value="9">September</option>
+          <option value="10">October</option>
+          <option value="11">November</option>
+          <option value="12">December</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="calculator-message jsCalcCarResult">
+    <h2>Tax per year for this vehicle will be:</h2>
+    <span class="result_number jsCalcCarResultValue">0,00 €</span>
+    <h2></h2>
+  </div>
+</div>

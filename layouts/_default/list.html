@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body class="">
+    {{ partial "nav.html" . }}
+    <div class="wrapper">
+      <div class="pure-g">
+        <div class="qm-sm-12-12 content-wrapper">
+          <div class="heading">
+            {{ with .Params.banner }}
+            <h1>{{.title | markdownify }}</h1>
+
+            <h2>{{ .sub_title | markdownify }}</h2>
+            {{ end }}
+          </div>
+
+          {{if .Params.top_menu.enable}}
+          <!---->
+          <div>{{ partial "to_menu" . }}</div>
+          {{ end }}
+
+          <label for="drop" class="toggle burger-icon"></label>
+          <input type="checkbox" id="drop" />
+
+          <ul class="menu show-for-small-only">
+            <li>
+              <a href="/car-tax-germany/">Car tax</a>
+            </li>
+
+            <li>
+              <a href="/motorcycle-tax-germany/">Motorcycle tax</a>
+            </li>
+
+            <li>
+              <a href="/camper-tax-germany/">RV tax</a>
+            </li>
+
+            <li>
+              <a href="/caravan-tax-germany/">Caravan tax</a>
+            </li>
+
+            <li>
+              <a href="/truck-tax-germany/">Truck Tax</a>
+            </li>
+
+            <li>
+              <a href="/trailer-tax-germany/">Trailer tax</a>
+            </li>
+
+            <li>
+              <a href="/electric-vehicle-tax-germany/">Electric car tax</a>
+            </li>
+
+            <li>
+              <a href="/oldtimer-tax-germany/">Oldtimer tax</a>
+            </li>
+          </ul>
+
+          <article>
+            <!---->
+            {{.Content}}
+            <!---->
+          </article>
+        </div>
+      </div>
+    </div>
+
+    {{ partial "footer.html" . }} {{ partial "script.html" . }}
+  </body>
+</html>

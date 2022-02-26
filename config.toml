@@ -1,3 +1,60 @@
-baseURL = 'http://example.org/'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'New web site'
+
+[menu]
+[[menu.main]]
+  identifier = 'car'
+  name = 'car'
+  pre = "pkw"
+  url = '/car-tax-germany/'
+  weight = 1
+
+[[menu.main]]
+  identifier = 'motorcycle'
+  name = 'Motorcycle'
+  pre = "motorrad"
+  url = '/motorcycle-tax-germany/'
+  weight = 2
+
+[[menu.main]]
+  identifier = 'RV'
+  name = 'RV'
+  pre = "wohnmobil"
+  url = '/camper-tax-germany/'
+  weight = 3
+
+[[menu.main]]
+  identifier = 'caravan'
+  name = 'Caravan'
+  pre = "wohnwagen"
+  url = '/caravan-tax-germany/'
+  weight = 4
+
+[[menu.main]]
+  identifier = 'truck'
+  name = 'Truck'
+  pre = "lkw"
+  url = '/truck-tax-germany/'
+  weight = 5
+
+[[menu.main]]
+  identifier = 'trailer'
+  name = 'Trailer'
+  pre = "anhaenger"
+  url = '/trailer-tax-germany/'
+  weight = 6
+
+[[menu.main]]
+  identifier = 'electric'
+  name = 'Electric'
+  pre = "efz"
+  url = '/electric-vehicle-tax-germany/'
+  weight = 7
+
+[[menu.main]]
+  identifier = 'oldtimer'
+  name = 'Oldtimer'
+  pre = "oldtimer"
+  url = '/oldtimer-tax-germany/'
+  weight = 8
