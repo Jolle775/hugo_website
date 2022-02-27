@@ -10,8 +10,6 @@ banner:
 
 {{<en/oldtimer-tax-germany>}}
 
-{{<en/google_ads>}}
-
 ## Oldtimer tax calculator for Germany
 
 The classic car tax for all vehicles is **191.73 €** per year. The Tax for motorcycles is **46.02 €** per year. Since October 1, 2017, seasonal license plates are also issued for classic vehicle registrations.

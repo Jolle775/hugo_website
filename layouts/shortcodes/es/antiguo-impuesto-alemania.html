@@ -1,0 +1,110 @@
+<div class="calculator-container pure-form pure-form-stacked">
+  <div class="inner-calc">
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Antiguo <sub>*</sub
+          ><span class="tooltiptext"
+            ><strong>Tipo de vehículo antiguo</strong><br />Los únicos vehículos
+            de época permitidos son motocicletas, y todos los otros tipos de
+            vehículos</span
+          ></label
+        >
+        <select
+          class="form-control qm-sm-12-12 jsCalcOldtimerSelectType"
+          name="oldtimer-type"
+        >
+          <option value="0">Por favor seleccione</option>
+          <option value="1">otros vehículos</option>
+          <option value="2">Motocicletas</option>
+        </select>
+      </div>
+      <div class="qm-md-6-12 qm-sm-12-12 p-l-10">
+        <div class="pure-g">
+          <div class="qm-md-12-12 qm-sm-12-12 p-r-10">
+            <label class="tooltip"
+              >Período de registro<span class="tooltiptext"
+                ><strong>Registro estacional </strong><br />Usted puede
+                registrar su vehículo por menos de 12 meses. Usted puede escoger
+                registrar su vehículo entre 2 y 11 meses. Usted tiene permitido
+                usar su vehículo en calles públicas durante este período.</span
+              ></label
+            >
+          </div>
+          <div class="button-group qm-sm-12-12 seasonbuttons" role="group">
+            <button
+              class="button qm-sm-6-12 jsCalcOldtimerStandardBtn button-active"
+              type="submit"
+              name="button_1"
+            >
+              estándar
+            </button>
+            <button
+              class="button qm-sm-6-12 jsCalcOldtimerSeasonalBtn"
+              type="submit"
+              name="button_2"
+            >
+              estacional
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      class="pure-g row jsCalcOldtimerSelectMonths"
+      id="season-div"
+      hidden=""
+    >
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-r-10" role="group">
+        <label for="month_from">desde</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcOldtimerSelectMonthsFrom"
+          name="month_from"
+          id="month_from"
+        >
+          <option value="1" selected="">Enero</option>
+          <option value="2">Febrero</option>
+          <option value="3">Marzo</option>
+          <option value="4">Abril</option>
+          <option value="5">Mayo</option>
+          <option value="6">Junio</option>
+          <option value="7">Julio</option>
+          <option value="8">Agosto</option>
+          <option value="9">Septiembre</option>
+          <option value="10">Octubre</option>
+          <option value="11">Noviembre</option>
+        </select>
+      </div>
+
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-l-10" role="group">
+        <label for="month_to">hasta</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcOldtimerSelectMonthsTo"
+          name="month_to"
+          id="month_to"
+        >
+          <option value="2" selected="">Febrero</option>
+          <option value="3">Marzo</option>
+          <option value="4">Abril</option>
+          <option value="5">Mayo</option>
+          <option value="6">Junio</option>
+          <option value="7">Julio</option>
+          <option value="8">Agosto</option>
+          <option value="9">Septiembre</option>
+          <option value="10">Octubre</option>
+          <option value="11">Noviembre</option>
+          <option value="12">Diciembre</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="calculator-message jsCalcOldtimerResult">
+    <h2>
+      El monto del impuesto por año para este vehículo sería el siguiente:
+    </h2>
+    <span class="result_number jsCalcOldtimerResultValue">0,00 €</span>
+    <h2></h2>
+  </div>
+</div>

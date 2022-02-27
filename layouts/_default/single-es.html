@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+  {{ partial "head.html" . }}
+
+  <body class="">
+    {{ partial "nav_es.html" . }}
+
+    <div class="wrapper">
+      <div class="pure-g">
+        <div class="qm-sm-12-12 content-wrapper">
+          <div class="heading">
+            {{ with .Params.banner }}
+            <h1>{{.title | markdownify }}</h1>
+
+            <h2>{{ .sub_title | markdownify }}</h2>
+            {{ end }}
+          </div>
+          {{if .Params.top_menu.enable}}
+          <!---->
+          <div>{{ partial "to_menu_es" . }}</div>
+          {{ end }}
+
+          <label for="drop" class="toggle burger-icon"></label>
+          <input type="checkbox" id="drop" />
+
+          <ul class="menu show-for-small-only">
+            {{ range .Site.Menus.es }}
+            <li>
+              <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+
+          <article>{{.Content}}</article>
+        </div>
+      </div>
+    </div>
+    {{ partial "footer_es.html" . }} {{ partial "script.html" . }}
+  </body>
+</html>

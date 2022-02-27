@@ -9,7 +9,6 @@ banner:
 ---
 
 {{<en/camper-tax-germany>}}
-{{<en/google_ads>}}
 
 ## Recreational vehicle and camper tax calculator for Germany
 

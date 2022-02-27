@@ -1,6 +1,7 @@
 ---
-title: "Vehicle tax calculator for Germany » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+layout: single-es
+title: "Información legal » kfz-steuer.wiki"
+description: "Calculadora de impuestos sobre el carro en Alemania"
 top_menu:
   enable: false
 banner:
@@ -8,13 +9,14 @@ banner:
   sub_title: ""
 ---
 
-**Angaben gemäß § 5 TMG**
-qmedia GmbH
-c/o softbox GmbH
-Ottobrunner Straße 1
+### Angaben gemäß § 5 TMG
+
+qmedia GmbH <br>
+c/o softbox GmbH <br>
+Ottobrunner Straße 1 <br>
 81737 München
 
-**Vertreten durch**
+**Vertreten durch**<br>
 Erkan Boga
 
 **Kontakt**
@@ -49,7 +51,6 @@ E-Mail: kfz-versicherungen@check24.de
 
 [Datenschutzerklärung der CHECK24 Vergleichsportal für Kfz-Versicherungen GmbH](https://www.check24.de/kfz-versicherungen/informationspflichten_dsgvo/)
 
-
 **Verbraucher­streit­beilegung / Universal­schlichtungs­stelle**
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucher­schlichtungs­stelle teilzunehmen.
 
@@ -68,6 +69,6 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-# Imprint
+# Información legal
 
-Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/)
+Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/)https://creativecommons.org/licenses/by/3.0/)

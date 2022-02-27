@@ -9,7 +9,6 @@ banner:
 ---
 
 {{<en/caravan-tax-germany>}}
-{{<en/google_ads>}}
 
 ## Caravan tax calculator for Germany
 

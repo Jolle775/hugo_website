@@ -10,8 +10,6 @@ banner:
 
 {{<en/electric-vehicle-tax-germany>}}
 
-{{<en/google_ads>}}
-
 ## German Electric Car Tax 2020
 
 One of the advantages of electric cars is the very favorable tax rate, or tax exemption for 10 years for first-time registered electric vehicles. You can find out quickly and easily how high the motor vehicle tax for your electric vehicle is with our tax calculator for electric vehicles. Simply enter the total permitted mass of your electric car in kilograms and select the registration period. You can easily find the permissible total mass in the registration certificate part I (Zulassungsbescheinigung Teil I) in field F.2. The electric car tax is calculated according to the date of first registration. It is relatively low overall, and owners are also granted an initial tax exemption. This is how the German government promotes electric mobility.

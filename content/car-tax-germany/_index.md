@@ -9,7 +9,6 @@ banner:
 ---
 
 {{<en/car-tax-germany>}}
-{{<en/google_ads>}}
 
 ## Car tax calculator for Germany
 

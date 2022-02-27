@@ -9,7 +9,6 @@ banner:
 ---
 
 {{<en/motorcycle-tax-germany>}}
-{{<en/google_ads>}}
 
 ## German motorcycle tax calculator for Germany
 

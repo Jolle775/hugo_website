@@ -9,7 +9,6 @@ banner:
 ---
 
 {{<en/trailer-tax-germany>}}
-{{<en/google_ads>}}
 
 ## Trailer tax calculator for Germany
 

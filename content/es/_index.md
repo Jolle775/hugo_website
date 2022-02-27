@@ -1,169 +1,167 @@
 ---
-layout: single
-title: "Vehicle tax calculator for Germany » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+layout: single-es
+title: "Calculadora de impuestos sobre el carro en Alemania"
+description: "Calcule la tasa impositiva de su vehículo registrado"
 top_menu:
   enable: false
 banner:
-  title: "ehicle tax calculator for Germany"
-  sub_title: "Please select your vehicle"
+  title: "Calculadora de impuestos sobre el vehículo en Alemania"
+  sub_title: "Por favor seleccione su vehículo"
 ---
 
-{{<en/home>}}
+{{<es/home>}}
 
-The motor vehicle tax is a very extensive and complex subject. In this article, we therefore only want to deal with its most important framework conditions and some special features. Further information on motor vehicle tax can be found at the end of this article.
+El impuesto sobre los vehículos de motor es un tema muy amplio y complejo. En este artículo, por lo tanto, sólo queremos tratar sus condiciones marco más importantes y algunas características especiales. Al final de este artículo se puede encontrar más información sobre el impuesto sobre los vehículos de motor.
 
-## Type of tax
+## Tipo de impuesto
 
-The motor vehicle tax has been a federal tax since 2009; previously it was a tax of the federal states. Since 2014, the Federal Customs Administration has levied the motor vehicle tax, whose revenue in Germany amounts to almost nine billion euros annually. The customs administration is now legally responsible, but nothing has changed for drivers. Customs has only taken over the previous work of the state finance authorities.
+El impuesto a los vehículos automotores ha sido un impuesto federal desde 2009; anteriormente era un impuesto de los estados federales. Desde 2014, la Administración Federal de Aduanas ha recaudado el impuesto sobre los vehículos de motor, cuyos ingresos en Alemania ascienden a casi nueve mil millones de euros anuales. La administración aduanera es ahora legalmente responsable, pero nada ha cambiado para los conductores. Las aduanas sólo se han hecho cargo del trabajo anterior de las autoridades financieras del Estado.
 
-At regional level, the responsible main customs office collects the vehicle tax. The tax office is expressly not responsible. There are 43 main customs offices in larger cities in Germany.
+A nivel regional, la aduana principal responsable recauda el impuesto sobre los vehículos. La Agencia Tributaria no se responsabiliza expresamente. Hay 43 oficinas principales de aduanas en las ciudades más grandes de Alemania.
 
-The collection of motor vehicle tax is regulated by the Kraftfahrteuergesetz (KraftStG) and the Kraftfahrzeugsteuer-Durchführungsverordnung (Kraft StDV), as is its amount. The provisions of the Vehicle Registration Ordinance (FZV) and the Road Traffic Registration Ordinance (StVZO) also play a role.
+La recaudación del impuesto sobre los vehículos de motor está regulada por la Kraftfahrteuergesetz (Kraftfahrteuergesetz, KraftStG) y el Kraftfahrzeugsteuer-Durchführungsverordnung (Kraft StDV), así como su importe. Las disposiciones de la Ordenanza de matriculación de vehículos (FZV) y la Ordenanza de matriculación de vehículos (StVZO) también desempeñan un papel importante.
 
-## Purpose of the motor vehicle tax
+## Objeto del impuesto sobre los vehículos de motor
 
-All states levy a motor vehicle tax because, in return, they pay from the public purse those expenses which are necessary for the infrastructure of a functioning transport system. These are not only roads and road maintenance departments, level crossings and zebra crossings, but also traffic lights, digital traffic monitoring and the work of the traffic police, which is not financed solely by parking tickets.
+Todos los Estados cobran un impuesto sobre los vehículos de motor porque, a cambio, pagan del erario público los gastos necesarios para la infraestructura de un sistema de transporte que funcione. No se trata sólo de los departamentos de mantenimiento de carreteras, pasos a nivel y pasos de cebra, sino también de los semáforos, de la vigilancia digital del tráfico y de la labor de la policía de tráfico, que no se financia únicamente con multas de aparcamiento.
 
-Because the legislator raises the tax from the polluter (the so-called polluter pays principle), it demands it in advance. In Germany, an annual contribution is usual, which the main customs office collects by direct debit. Deviations from this are hardly planned.
+Dado que el legislador eleva el impuesto al contaminador (el llamado principio de que quien contamina paga), lo exige de antemano. En Alemania, es habitual una contribución anual que la aduana principal cobra mediante débito directo. Las desviaciones de esto son difícilmente planificadas.
 
-In addition to investments in infrastructure, the funds from the motor vehicle tax also serve to promote innovative, mostly environmentally friendly technologies. This is also reflected in the design of the tax: Particularly environmentally friendly vehicles pay only a very low vehicle tax or are (even temporarily) completely exempt from it.
+Además de las inversiones en infraestructura, los fondos del impuesto sobre los vehículos de motor también sirven para promover tecnologías innovadoras, en su mayoría respetuosas con el medio ambiente. Esto también se refleja en el diseño del impuesto: los vehículos especialmente respetuosos con el medio ambiente pagan un impuesto de circulación muy bajo o están (incluso temporalmente) completamente exentos de él.
 
-In general, the level of the tax for many vehicles depends on their pollutant class. With such regulations, the motor vehicle tax as an expense tax in Germany has been further developed in the last century. It has been in existence since 1906, for a long time only the engine capacity of the car was decisive for the amount of the tax.
+En general, el nivel del impuesto para muchos vehículos depende de su clase de contaminante. Con tales regulaciones, el impuesto sobre los vehículos de motor como impuesto al gasto en Alemania se ha desarrollado aún más en el último siglo. Ha existido desde 1906, durante mucho tiempo sólo la capacidad del motor del coche fue decisiva para el importe del impuesto.
 
-## Who pays the vehicle tax?
+## ¿Quién paga el impuesto sobre los vehículos de motor?
 
-Owners and in special cases users of motor vehicles pay this tax. In return, they receive a registration number as a service provided by the state.
+Los propietarios y, en casos especiales, los usuarios de vehículos de motor pagan este impuesto. A cambio, reciben un número de registro como un servicio proporcionado por el estado.
 
-Motor vehicles are all vehicles driven by an engine that travel on the road and not or not exclusively by rail. The taxable owners may have registered the vehicle within the country, the tax is due regardless of the actual use.
+Los vehículos de motor son todos los vehículos conducidos por un motor, que circulan por carretera y no o no exclusivamente por ferrocarril. Los sujetos pasivos propietarios pueden haber registrado el vehículo dentro del país, el impuesto se debe pagar independientemente del uso real.
 
-Vehicles registered abroad are also taxable in Germany if their owner has his main residence in Germany. Furthermore, even vehicles that are not registered, i.e. illegally used (or parked in public space) are subject to tax.
+Los vehículos matriculados en el extranjero también están sujetos a impuestos en Alemania si su propietario tiene su residencia principal en Alemania. Además, incluso los vehículos no matriculados, es decir, utilizados ilegalmente (o aparcados en espacios públicos), están sujetos a impuestos.
 
-The amount of tax can be determined according to the type of vehicle, and there are also tax exemptions and reductions due to the purpose of use. For example, there are special tax rates for classic cars that can drive continuously with the H-plate and for vehicles with red plates that are used for transfer, test and trial runs. A vehicle with a red number plate for test drives alone is exempt from vehicle tax. Its registration number begins with 05.
+El importe del impuesto puede determinarse en función del tipo de vehículo, y también existen exenciones y reducciones fiscales debidas a la finalidad del uso. Por ejemplo, existen tipos impositivos especiales para los coches clásicos que pueden conducir de forma continua con la placa H y para los vehículos con placas rojas que se utilizan para los trayectos de transferencia, de prueba y de prueba. Un vehículo con una matrícula roja sólo para pruebas de conducción está exento del impuesto de matriculación. Su número de registro comienza con 05.
 
-The taxpayers may be different persons for the registration types mentioned. The motor vehicle tax law determines in § 7 as tax debtor
+Los contribuyentes pueden ser personas diferentes para los tipos de autorización mencionados. En el § 7, la Ley del Impuesto sobre Vehículos Automotores define lo siguiente como deudores de impuestos
 
-- for domestic vehicles, the keeper (to whom the vehicle is registered),
-- in the case of foreign vehicles, the domestic user,
-- in the case of vehicles used unlawfully, the unlawful user and
-- For red indicators, the person to whom the indicator was assigned.
+- en el caso de los vehículos nacionales, el poseedor (a nombre del cual está matriculado el vehículo),
+- en el caso de vehículos extranjeros, el usuario nacional,
+- en el caso de vehículos utilizados ilegalmente, el usuario ilegítimo y
+- Para los indicadores rojos, la persona a la que se asignó el indicador.
+- Impuesto de Vehículos: Exenciones de Impuestos Ilimitados
 
-## Vehicle Tax: Unlimited Tax Exemptions
+Algunos vehículos están exentos del impuesto de matriculación. El propósito, el poseedor y/o el tipo de vehículo son decisivos. Hay exenciones permanentes y temporales.
 
-Some vehicles are exempt from vehicle tax. The purpose, the keeper and/or the type of vehicle are decisive. There are both permanent and temporary exemptions.
+## Por ejemplo, la maquinaria agrícola y forestal se utiliza libre de impuestos. Estos incluyen
 
-For example, agricultural and forestry machinery is used tax-free. These include
+- Tractores
+- vehículos especiales
+- colgante
+- Quedan excluidos los tractores y sus remolques.
 
-- Tractors
-- special-purpose vehicles
-- pendant
+Los vehículos para tareas muy especiales también están exentos de impuestos. Se trata de vehículos para los siguientes campos de aplicación:
 
-Excluded from this are tractor units and their trailers.
+- Cuerpo de bomberos
+- Servicio de rescate (ambulancia)
+- defensa civil
+- control de catástrofes
+- limpieza de calles
+- construcción de carreteras
+- Autobuses en servicio regular
+- arancelario
+- fuerzas armadas alemanas
+- policía
 
-Vehicles for very special tasks are also exempt from tax. These are vehicles for the following areas of application:
+Además, no existe un impuesto sobre los vehículos de motor para las motocicletas ligeras de hasta 11 kW y 125 cm³ de cilindrada, para las máquinas autopropulsadas y los elevadores de pacientes motorizados.
 
-- Fire brigade
-- Rescue service (ambulance)
-- civil defence
-- disaster control
-- street cleaning
-- road construction
-- Buses in regular service
-- customs
-- German Armed Forces
-- police
+## Los contribuyentes pueden ser personas diferentes para los tipos de autorización mencionados.
 
-In addition, there is no motor vehicle tax for light motorcycles up to 11 kW and 125 cm³ cubic capacity, for self-propelled machines and motorised patient elevators.
+En el § 7, la Ley del Impuesto sobre Vehículos Automotores define lo siguiente como deudores de impuestos en el caso de los vehículos nacionales, el poseedor (a nombre del cual está matriculado el vehículo), en el caso de vehículos extranjeros, el usuario nacional, en el caso de vehículos utilizados ilegalmente, el usuario ilegítimo y
 
-## Vehicle tax: Temporary tax exemptions
+Para los indicadores rojos, la persona a la que se asignó el indicador. Sin embargo, el requisito previo para ello es que no se utilicen para el transporte de mercancías o pasajeros a cambio de una remuneración.
 
-While the tax exemptions just mentioned apply generally (permanently), there is a temporary tax exemption for electric vehicles. This depends on the date of first registration. Until 17.05.2011 five years tax exemption were fixed, from 18.05.2011 - 31.12.2015 then ten years, from 01.01.2016 - 31.12.2020 again five years. Thereafter, a tax reduction of 50 percent will apply to each of these vehicles.
+También hubo una exención fiscal temporal hasta el 31.12.2013 para los turismos diésel con emisiones reducidas matriculados entre el 01.01.2011 y el 31.12.2013. Los motores tenían que cumplir la norma Euro 6 (Ley de impuestos sobre vehículos de motor § 3b).
 
-Foreign passenger cars also benefit from a temporary tax exemption for one year. The prerequisite for this, however, is that they are not used for the carriage of goods or passengers against payment.
+## Exención de impuestos para ciertos propietarios
 
-There was also a temporary tax exemption until 31.12.2013 for emission-reduced diesel passenger cars registered from 01.01.2011 - 31.12.2013. The engines had to comply with the Euro 6 standard (Motor Vehicle Tax Act § 3b).
+Los minusválidos graves reciben una exención fiscal para su vehículo de motor si su tarjeta de identificación de minusválido grave contiene una de las abreviaturas H, BI o aG (impotencia, ceguera o incapacidad extraordinaria para caminar).
 
-## Tax exemption for certain keepers
+Este reglamento se basa en una situación jurídica más reciente. Las personas gravemente discapacitadas que ya estaban exentas del impuesto sobre los vehículos de motor en virtud de las leyes anteriores de 1979 siguen estando exentas si son VB (con derecho a recibir cuidados), KB (dañados por la guerra) o EB (con derecho a indemnización). Son ex soldados con heridas graves, gravemente afectados por la guerra y víctimas de la injusticia nacionalsocialista.
 
-Severely handicapped persons receive tax exemption for their motor vehicle if their severely handicapped ID card contains one of the abbreviations H, BI or aG (helplessness, blindness or extraordinary walking disability).
+Los feriantes son otro grupo de personas que generalmente están exentas del impuesto sobre los vehículos de motor. Su vehículo debe ser utilizado exclusivamente para fines comerciales. Se trata de sus caravanas de 3,5 toneladas, tractores y furgonetas de 2,5 toneladas.
 
-This regulation is based on a more recent legal situation. Those severely disabled persons who were already exempt from motor vehicle tax under the previous laws of 1979 remain exempt if they are VB (entitled to care), KB (war-damaged) or EB (entitled to compensation). They are former soldiers with severe injuries, seriously war-affected and victims of National Socialist injustice.
+## Solicitud de exención fiscal
 
-The carnies are another group of people who are generally exempt from motor vehicle tax. Their vehicle must be used exclusively for commercial purposes. These are their caravans from 3.5 tons, tractors and luggage vans from 2.5 tons.
+Algunas exenciones del impuesto sobre los vehículos sólo se conceden previa solicitud. Deberá presentarse a la autoridad de matriculación de los vehículos agrícolas y forestales y a la aduana principal de los vehículos de los poseedores de vehículos con discapacidades graves. Los vehículos eléctricos, las máquinas de trabajo autopropulsadas y los elevadores de pacientes motorizados quedan automáticamente exentos sin necesidad de solicitud.
 
-## Application for tax exemption
+Si se ha concedido una exención fiscal previa solicitud, pero ya no se aplica el motivo de la misma (por ejemplo, si una feria utiliza su vehículo de forma privada), deberá notificarse inmediatamente y por escrito a la autoridad competente. De lo contrario, se produciría una reducción fiscal frívola y, en el caso de una mayor cantidad de evasión fiscal (más larga y/o para muchos vehículos), una evasión fiscal.
 
-Some exemptions from vehicle tax are granted only on request. This must be submitted to the registration authority for agricultural and forestry vehicles and to the main customs office for vehicles of severely disabled keepers. Electric vehicles, self-propelled working machines and motorised patient elevators are automatically exempt without an application.
+Los vehículos exentos del impuesto sobre los vehículos de motor llevan placas verdes especiales, que reciben de la autoridad de matriculación. Sin embargo, esto no se aplica a todos los vehículos exentos. Se excluyen los vehículos severamente discapacitados, ciclomotores, vehículos de baja emisión, vehículos oficiales y vehículos de diplomáticos y consulados.
 
-If a tax exemption was granted on application, but the reason for it no longer applies (for example, a carny now uses his vehicle privately), this must be notified immediately in writing to the competent authority. Failure to do so would result in a frivolous tax reduction and, in the case of a higher amount of tax evasion (longer and/or for many vehicles), tax evasion.
+## Reembolso del impuesto sobre los vehículos
 
-Vehicles exempt from motor vehicle tax carry special green plates, which they receive from the registration authority. However, this does not apply to all exempt vehicles. Excluded are severely disabled vehicles, mopeds, low emission vehicles, official vehicles and vehicles of diplomats and consulates.
+En circunstancias especiales se reembolsa el impuesto sobre los vehículos de motor (Ley del impuesto sobre los vehículos de motor, art. 4). Este es el caso si un vehículo ha sido transportado a menudo (al menos 125 veces al año) por ferrocarril. No importa cuán lejos haya estado todo el viaje y si partes del mismo fueron cubiertas por el propio vehículo. Para un número ligeramente inferior de viajes, hay reembolsos parciales, por ejemplo, del 75% para 94 viajes o más. Esto depende de la fecha de la primera inscripción.
 
-## Refund of vehicle tax
+## Reducción del impuesto sobre los vehículos
 
-Under special circumstances there is a refund of the motor vehicle tax (motor vehicle tax law § 4). This is the case if a vehicle has been transported often (at least 125 times a year) by rail. It does not matter how far the entire journey was and whether parts of it were covered by the vehicle itself. For slightly fewer journeys there are partial refunds, for example 75% for 94 journeys or more. The refund must be applied for in writing and a documentation (ticket) must be enclosed.
+En algunos casos es posible una reducción, a menudo del 50%. Esto se aplica a las personas con discapacidades graves con una impresión de color naranja en su tarjeta de identificación de discapacidad grave y la entrada G (discapacidad para caminar) o GI (sordera).
 
-## Vehicle tax reduction
+No obstante, el solicitante debe abstenerse de utilizar el transporte público, que por lo demás es gratuito, para poder beneficiarse de la desgravación fiscal. La reducción también se aplica si la persona gravemente discapacitada no conduce el vehículo por sí misma. Sin embargo, esto sólo puede ser utilizado para sus necesidades personales. También en este caso, el motivo de la reducción fiscal debe comunicarse inmediatamente a la aduana principal responsable.
 
-In certain cases a reduction is possible, often by 50%. This applies to severely disabled people with an orange-coloured imprint on their severely disabled ID card and the entry G (walking disability) or GI (deafness).
+Una reducción adicional del 50% se aplica a los vehículos eléctricos después de que haya expirado la exención total del impuesto. No es necesario solicitar la reducción. En el caso de los coches clásicos, sus propietarios también pagan un tipo impositivo uniformemente bajo.
 
-However, the applicant must refrain from using public transport, which is otherwise free of charge, in order to benefit from the tax relief. The reduction also applies if the severely disabled person does not drive the vehicle himself. However, this may only be used for their personal needs. Here, too, the reason for the tax reduction must be reported immediately to the responsible main customs office.
+## ¿Desde cuándo y durante cuánto tiempo se aplica un impuesto sobre los vehículos de motor?
 
-A further 50% reduction applies to electric vehicles after the complete tax exemption has expired. The reduction does not have to be applied for. For classic cars, their owners also pay a uniformly low tax rate.
+Con el registro también se aplica la obligación tributaria. El registro permite el uso (conducción, aparcamiento) del vehículo en espacios públicos. A continuación, los titulares emiten una orden de adeudo directo SEPA a la oficina de aduanas principal. Cuando se da de baja un vehículo, su imposición finaliza automáticamente. Para una correcta cancelación de la inscripción, los certificados de registro y las placas de matrícula deben presentarse en la oficina de registro.
 
-## From when and for how long does a motor vehicle tax apply?
+En el momento de la venta, la obligación tributaria del titular anterior finaliza el día de la matriculación del vehículo ante el nuevo titular. El nuevo propietario debe traer consigo el contrato de compraventa para el nuevo registro. El propietario anterior también puede dar de baja el vehículo antes de la venta para protegerse de las consecuencias fiscales y de seguro. Esto generalmente no sucede porque el comprador sólo puede mover el vehículo con una placa de matrícula especial. Por lo tanto, en los contratos de venta siempre se señala que el comprador está obligado a volver a registrarse a su debido tiempo. Esto significa alrededor de una semana.
 
-With the registration also the tax liability applies. Registration allows the vehicle to be used (driven, parked) in public spaces. The holders then issue a SEPA direct debit mandate to the main customs office. When a vehicle is deregistered, its taxation automatically ends. For proper deregistration, the registration certificates and license plates must be submitted to the registration office.
+Un vehículo robado puede ser desregistrado, entonces la responsabilidad fiscal del propietario dañado expira. Debe denunciar el robo a la policía, a la oficina principal de aduanas y a la autoridad de registro.
 
-On sale, the previous holder’s tax liability ends on the day the vehicle is registered with the new holder. The new owner must bring the sales contract with him for the re-registration. The previous owner can also deregister the vehicle before the sale in order to protect himself from tax and insurance consequences. This usually does not happen because the buyer is then only allowed to move the vehicle with a special license plate. It is therefore always noted in the sales contracts that the buyer is obliged to re-register in a timely manner. This means about one week.
+Un aspecto curioso del impuesto sobre los vehículos de motor es que se debe pagar cuando el vehículo se utiliza ilegalmente. Durante este tiempo, el impuesto también es pagadero. Quien reciba una matrícula y no se vuelva a dar de baja deberá pagar el impuesto de circulación durante el período de validez. Esto se aplica, entre otras cosas, a la exportación de matrículas que los automovilistas utilizan para el traslado permanente del vehículo al extranjero. A continuación, deben cancelar el registro de la matrícula de la autoridad de registro alemana.
 
-A stolen vehicle can be deregistered, then the damaged owner’s tax liability expires. He must report the theft to the police, the main customs office and the registration authority.
+El plazo mínimo de tributación es de un mes. También hay reembolsos de impuestos cuando se da de baja un vehículo. Finalmente, el impuesto se pagó por adelantado.
 
-A curious aspect of motor vehicle tax is that it is due when the vehicle is used illegally. During this time, the tax is also due. Whoever receives a license plate and does not deregister again must pay motor vehicle tax for the duration of the validity. This applies, among other things, to export license plates that motorists use for the permanent transfer of the vehicle abroad. They must then deregister the license plate from the German registration authority.
+## Fecha de vencimiento del impuesto sobre los vehículos de motor
 
-The minimum period for tax liability is one month. There are also tax refunds when a vehicle is deregistered. The tax was finally paid in advance.
+El impuesto se paga por adelantado un año a partir de la fecha de registro, después de lo cual se paga anualmente en esa fecha. Si la carga fiscal supera los 500 euros, es posible una forma de pago semestral; si la carga fiscal supera los 1.000 euros, es posible el pago trimestral. Ambos están conectados con un pequeño recargo y deben ser solicitados.
 
-## Due date for motor vehicle tax
+El impuesto sobre vehículos de motor para vehículos extranjeros matriculados en Alemania se puede pagar por adelantado durante treinta días en cada caso durante la estancia temporal del propietario en Alemania.
 
-The tax is paid one year in advance from the date of registration, after which it is payable annually on that date. If the tax burden exceeds 500 euros, a half-yearly payment method is possible; if the tax burden exceeds 1,000 euros, quarterly payment is possible. Both are connected with a small surcharge and must be requested.
+Si no es posible recaudar el impuesto sobre el vehículo, se envía un recordatorio al propietario y el vehículo se da de baja de oficio. El propietario debe presentar el documento de matriculación del vehículo a la autoridad de matriculación, y los documentos también se marcan en la oficina de matriculación. Aquellos que no entreguen la documentación de su vehículo serán capturados durante un control policial. Además, el número de registro no está sellado y se corrigen los directorios de remolques.
 
-The motor vehicle tax for foreign vehicles registered in Germany can be paid in advance for thirty days in each case during the temporary stay of the owner in Germany.
+## Determinación del tipo impositivo
 
-If it is not possible to collect the vehicle tax, the owner is sent a reminder and the vehicle is deregistered ex officio. The owner must submit his vehicle registration document to the registration authority, and the papers are also marked accordingly at the registration office. Those who do not surrender their vehicle registration papers will be caught during a police check. In addition, the registration number is unstamped and any trailer directories are corrected.
+Cuando se matricula el vehículo, la autoridad de matriculación establece los datos pertinentes para la tributación. Estos son:
 
-## Determination of the tax rate
+- Tamaño de la capacidad cúbica
+- tipo de emisión
+- tipo de propulsión
+- Peso (para camiones, caravanas, algunos remolques)
+- CO₂ DIFUNDE LA PALABRA-
 
-When the vehicle is registered, the registration authority establishes the relevant data for taxation. These are:
+La oficina de matriculación transmite los datos del vehículo a la aduana principal responsable. La Oficina Principal de Aduanas determina el importe del impuesto sobre vehículos, el titular recibe una liquidación y emite el Mandato de Adeudo Directo SEPA a la Oficina Principal de Aduanas. No tiene por qué ser necesariamente una cuenta propia del titular. Si la matriculación de un vehículo revela atrasos fiscales por parte del poseedor, éste deberá liquidarlos en primer lugar antes de poder matricular el nuevo vehículo.
 
-- Size of the cubic capacity
-- emission class
-- drive type
-- Weight (for trucks, caravans, some trailers)
-- CO₂ output
+De acuerdo con la Ley del Impuesto sobre Vehículos Automotores, las bases impositivas pueden cambiar y el impuesto debe ser reevaluado. Esto a veces se debe a cambios en la ley, pero también al hecho de que el propietario está clasificado de forma diferente a efectos fiscales debido a cambios en sus circunstancias: cambios en su profesión, posiblemente una discapacidad. Un período de validez modificado de las matrículas de temporada también modifica el impuesto. Un cambio de impuestos también puede ser efectivo sólo temporalmente.
 
-The registration office transmits the vehicle data to the responsible main customs office. The Main Customs Office determines the amount of the vehicle tax, the holder receives a tax assessment and issues the SEPA Direct Debit Mandate to the Main Customs Office. It does not necessarily have to be the holder’s own account. If the registration of a vehicle reveals tax arrears on the part of the keeper, the latter must first settle the arrears before he can register the new vehicle.
+## Factores que influyen en el importe del impuesto sobre los vehículos de motor
 
-According to the Motor Vehicle Tax Act, tax bases can change and the tax must then be reassessed. This sometimes results from changes in the law, but also from the fact that the owner is classified differently for tax purposes due to changes in his circumstances - changes in his profession, possibly a disability. A changed validity period of seasonal license plates also changes the tax. A tax change can also only be effective temporarily.
+Hay varias clases de impuestos de vehículos. El tipo del impuesto sobre los vehículos de motor depende de los factores mencionados anteriormente, que desempeñan un papel diferente para cada vehículo. Por ejemplo, la fecha de registro tiene actualmente una gran influencia, ya que se han establecido nuevas normas para las inscripciones por primera vez a partir del 1 de julio de 2009. Además, existen diferentes límites de exención para las emisiones contaminantes en función de la fecha de matriculación, lo que también influye en el importe del impuesto sobre los vehículos.
 
-## Factors influencing the amount of motor vehicle tax
+Y dependiendo de la capacidad del motor, se aplican diferentes impuestos a estos límites de exención, que a su vez varían entre los motores de gasolina y diesel. El peso también es relevante para los motores Wankel.
 
-There are various vehicle tax classes. The motor vehicle tax rate depends on the factors mentioned above, which play a different role for individual vehicles. For example, the registration date currently has a major influence, as new rules have been set for first-time registrations from 1 July 2009. In addition, there are different exemption limits for pollutant emissions depending on the registration date, which also have an influence on the amount of vehicle tax.
+## Cálculo del importe del impuesto sobre los vehículos de motor
 
-And depending on the engine capacity, different taxes are levied from these exemption limits, which in turn vary between gasoline and diesel engines. Weight is also relevant for Wankel engines.
+Dado que el importe del impuesto sobre los vehículos de motor depende en gran medida de los factores de influencia mencionados anteriormente y de sus combinaciones, la pregunta “¿Cuánto impuesto sobre los vehículos de motor tengo que pagar?
 
-## Calculate the amount of motor vehicle tax
+Por lo tanto, es mejor utilizar la calculadora de impuestos de vehículos para calcular el impuesto de vehículos. Esta calculadora le ayuda individual y rápidamente a calcular los impuestos de su vehículo. Es gratuito y fácil de usar. Al calcular el impuesto de su coche, por ejemplo, sólo tiene que utilizar la función
 
-Since the amount of the motor vehicle tax depends strongly on the influencing factors mentioned above and their combinations, the question “How much motor vehicle tax do I have to pay?
+- la fecha de la primera matriculación,
+- la capacidad cúbica y
+- especifique el tipo de motor.
+- Dependiendo de la fecha de matriculación, la calculadora del impuesto de circulación consulta la clase de contaminante o las emisiones de CO2 en g/km.
 
-It is therefore better to use the vehicle tax calculator to calculate the vehicle tax. This calculator supports you individually and quickly in calculating the tax for your vehicle. It is free of charge and easy to use. When calculating the tax for your car, for example, you only have to use the
+Encontrará toda la información necesaria en su certificado de registro Parte 1. Al pasar el ratón por encima de la descripción del campo de entrada correspondiente del ordenador, también le mostrará exactamente dónde encontrará la información sobre el certificado de registro.
 
-- the date of first registration,
-- the cubic capacity and
-- specify the motor type.
-- Depending on the registration date, the vehicle tax calculator then queries the pollutant class or the CO2 emissions in g/km.
+Si su coche está registrado en todo momento, no necesita hacer más entradas. Si el vehículo sólo se utiliza de forma estacional, sólo tiene que introducir el período.
 
-You will find all the necessary information in your registration certificate Part 1. By moving the mouse over the respective input field description of the computer, it will also show you exactly where you will find the information on the registration certificate.
-
-If your car is registered throughout, you do not need to make any further entries. If the vehicle is only used seasonally, you only need to enter the period.
-
-The vehicle tax calculator will then immediately show you the expected amount of vehicle tax to be paid.
+La calculadora de impuestos del vehículo le mostrará inmediatamente la cantidad esperada de impuestos del vehículo a pagar.

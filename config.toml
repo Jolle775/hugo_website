@@ -115,3 +115,53 @@ title = 'New web site'
   pre = "oldtimer"
   url = '/de/oldtimer-steuer-rechner/'
   weight = 8
+
+[es]
+[[menu.es]]
+  identifier = 'vehículo'
+  name = 'Vehículo'
+  pre = "pkw"
+  url = '/es/vehiculo-impuesto-alemania/'
+  weight = 1
+
+[[menu.es]]
+  identifier = 'motocicleta'
+  name = 'Motocicleta'
+  pre = "motorrad"
+  url = '/es/motocicleta-impuesto-alemania/'
+  weight = 2
+
+[[menu.es]]
+  identifier = 'rv'
+  name = 'RV'
+  pre = "wohnmobil"
+  url = '/es/rv-impuesto-alemania/'
+  weight = 3
+
+[[menu.es]]
+  identifier = 'camión'
+  name = 'Camión'
+  pre = "lkw"
+  url = '/es/camion-impuesto-alemania/'
+  weight = 4
+
+[[menu.es]]
+  identifier = 'remolque'
+  name = 'Remolque'
+  pre = "anhaenger"
+  url = '/es/remolque-impuesto-alemania/'
+  weight = 5
+
+[[menu.es]]
+  identifier = 'eléctrico'
+  name = 'Eléctrico'
+  pre = "efz"
+  url = '/es/electrico-vehiculo-impuesto-alemania/'
+  weight = 7
+
+[[menu.es]]
+  identifier = 'antiguo'
+  name = 'Antiguo'
+  pre = "oldtimer"
+  url = '/es/antiguo-impuesto-alemania/'
+  weight = 8

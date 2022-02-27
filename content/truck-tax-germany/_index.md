@@ -10,8 +10,6 @@ banner:
 
 {{<en/truck-tax-germany>}}
 
-{{<en/google_ads>}}
-
 Truck tax calculator for Germany The tax for your truck can be determined quickly and easily with our truck tax calculator. To calculate the tax class for commercial vehicles, only the total weight permitted under traffic law and the pollutant class are required. Taxation is based on the German Motor Vehicle Tax Act (Kraftfahrzeugsteuergesetz, KraftStG).
 
 **The following maximum rates apply:**
