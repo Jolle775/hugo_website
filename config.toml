@@ -58,3 +58,60 @@ title = 'New web site'
   pre = "oldtimer"
   url = '/oldtimer-tax-germany/'
   weight = 8
+
+[de]
+[[menu.de]]
+  identifier = 'pkw'
+  name = 'Pkw'
+  pre = "pkw"
+  url = '/de/kfz-steuer-rechner/'
+  weight = 1
+
+[[menu.de]]
+  identifier = 'motorrad'
+  name = 'Motorrad'
+  pre = "motorrad"
+  url = '/de/motorrad-steuer-rechner/'
+  weight = 2
+
+[[menu.de]]
+  identifier = 'wohnmobil'
+  name = 'Wohnmobil'
+  pre = "wohnmobil"
+  url = '/de/wohnmobil-steuer-rechner/'
+  weight = 3
+
+[[menu.de]]
+  identifier = 'wohnwagen'
+  name = 'Wohnwagen'
+  pre = "wohnwagen"
+  url = '/de/wohnwagen-steuer-rechner/'
+  weight = 4
+
+[[menu.de]]
+  identifier = 'lkw'
+  name = 'Lkw'
+  pre = "lkw"
+  url = '/de/lkw-steuer-rechner/'
+  weight = 5
+
+[[menu.de]]
+  identifier = 'anhaenger'
+  name = 'Anhänger'
+  pre = "anhaenger"
+  url = '/de/anhaenger-steuer-rechner/'
+  weight = 6
+
+[[menu.de]]
+  identifier = 'elektro'
+  name = 'Elektro'
+  pre = "efz"
+  url = '/de/elektrofahrzeug-steuer-rechner/'
+  weight = 7
+
+[[menu.de]]
+  identifier = 'oldtimer'
+  name = 'Oldtimer'
+  pre = "oldtimer"
+  url = '/de/oldtimer-steuer-rechner/'
+  weight = 8

@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
   {{ partial "head.html" . }}
+
   <body class="">
-    {{ partial "nav.html" . }}
+    {{ partial "nav_de.html" . }}
+
     <div class="wrapper">
       <div class="pure-g">
         <div class="qm-sm-12-12 content-wrapper">
@@ -16,29 +18,24 @@
 
           {{if .Params.top_menu.enable}}
           <!---->
-          <div>{{ partial "to_menu" . }}</div>
+          <div>{{ partial "to_menu_de" . }}</div>
           {{ end }}
 
           <label for="drop" class="toggle burger-icon"></label>
           <input type="checkbox" id="drop" />
 
           <ul class="menu show-for-small-only">
-            {{ range .Site.Menus.main }}
+            {{ range .Site.Menus.de }}
             <li>
               <a href="{{ .URL }}">{{ .Name }}</a>
             </li>
             {{ end }}
           </ul>
 
-          <article>
-            <!---->
-            {{.Content}}
-            <!---->
-          </article>
+          <article>{{.Content}}</article>
         </div>
       </div>
     </div>
-
     {{ partial "footer.html" . }} {{ partial "script.html" . }}
   </body>
 </html>

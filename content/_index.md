@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Vehicle tax calculator for Germany » kfz-steuer.wiki"
 description: "Calculate your tax rate for vehicle registered"
 top_menu:

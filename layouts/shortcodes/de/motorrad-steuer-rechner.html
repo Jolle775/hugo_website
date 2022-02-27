@@ -1,0 +1,115 @@
+<div class="calculator-container pure-form pure-form-stacked">
+  <div class="inner-calc">
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Hubraum in ccm <sub>*</sub
+          ><span class="tooltiptext"
+            ><strong>Hubraum</strong><br />Der Hubraum gibt das Hubvolumen des
+            Motors an. Ein großer Hubraum bedeutet oft auch einen hohen
+            Kraftstoffverbrauch. Angaben zum Hubraum Ihres Motorrads finden Sie
+            in der Zulassungsbescheinigung Teil I, Feld P.1.</span
+          ></label
+        >
+        <input
+          class="qm-sm-12-12 qm-md-12-12 numeric-input jsCalcBikeDisplacementInput"
+          type="number"
+          name="displacement"
+        />
+      </div>
+
+      <div class="qm-md-6-12 qm-sm-12-12 p-l-10">
+        <div class="pure-g">
+          <div class="qm-md-12-12 qm-sm-12-12 p-r-10">
+            <label class="tooltip"
+              >Anmeldezeitraum<span class="tooltiptext"
+                ><strong>Saisonkennzeichen</strong><br />Fahrzeuge können auch
+                nur für einige Monate angemeldet werden. Der Zeitraum ist frei
+                wählbar zwischen 2 und 11 Monaten. Eine solche Saisonzulassung
+                wird durch zwei Ziffern angegeben, die rechts im Nummernschild
+                eingeprägt sind. In diesem Zeitraum ist das Fahrzeug im
+                Straßenverkehr zugelassen.</span
+              ></label
+            >
+          </div>
+
+          <div class="button-group qm-sm-12-12 seasonbuttons" role="group">
+            <button
+              class="button button-active qm-sm-6-12 jsCalcBikeStandardBtn"
+              type="submit"
+              name="button_1"
+            >
+              Standard
+            </button>
+
+            <button
+              class="button qm-sm-6-12 jsCalcBikeSeasonalBtn"
+              type="submit"
+              name="button_2"
+            >
+              Saison
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g row jsCalcBikeMonths" id="season-div" hidden="">
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-r-10" role="group">
+        <label for="month_from">Von</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcBikeSelectMonthsFrom"
+          name="month_from"
+          id="month_from"
+        >
+          <option value="1" selected="">Januar</option>
+          <option value="2">Februar</option>
+          <option value="3">März</option>
+          <option value="4">April</option>
+          <option value="5">Mai</option>
+          <option value="6">Juni</option>
+          <option value="7">Juli</option>
+          <option value="8">August</option>
+          <option value="9">September</option>
+          <option value="10">Oktober</option>
+          <option value="11">November</option>
+        </select>
+      </div>
+
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-l-10" role="group">
+        <label for="month_to">Bis</label>
+
+        <select
+          class="form-control qm-sm-12-12 jsCalcBikeSelectMonthsTo"
+          name="month_to"
+          id="month_to"
+        >
+          <option value="2">Februar</option>
+          <option value="3">März</option>
+          <option value="4">April</option>
+          <option value="5">Mai</option>
+          <option value="6">Juni</option>
+          <option value="7">Juli</option>
+          <option value="8">August</option>
+          <option value="9">September</option>
+          <option value="10">Oktober</option>
+          <option value="11">November</option>
+          <option value="12">Dezember</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="calculator-message jsCalcBikeResultLess">
+    <h2>
+      Sie haben weniger als 125 ccm eingegeben und sind somit von der
+      Kraftfahrzeugsteuer befreit. <span class="result"></span>
+    </h2>
+  </div>
+
+  <div class="calculator-message jsCalcBikeResultMore" hidden="">
+    <h2>Die Kfz-Steuer für dieses Fahrzeug beträgt:</h2>
+    <span class="result_number jsCalcBikeResultMoreValue">0,00 €</span>
+    <h2></h2>
+  </div>
+</div>
