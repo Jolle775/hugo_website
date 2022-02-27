@@ -1,7 +1,7 @@
 ---
 layout: single-de
 title: "Wohnmobil KFZ Steuer Rechner » Jetzt schnell Camper Steuer berechnen » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: yes
 banner:
@@ -31,8 +31,6 @@ Werden diese Anforderungen nicht erfüllt, gilt das Fahrzeug als “unechtes” 
 ## Steuer für Wohnmobile: Einflussfaktoren
 
 {{<de/call3>}}
-
-
 
 Das Wohnmobil ist bei vielen Paaren und Familien unglaublich beliebt. Die Reise durch interessante Landschaften und über Ländergrenzen hinweg in den rollenden eigenen vier Wänden kostet allerdings eine Kleinigkeit - nicht nur bezüglich des Unterhalts dieser Fahrzeuge, sondern auch in Bezug auf Steuern und Versicherungen.
 
@@ -79,7 +77,7 @@ Die genannten Klassen lassen sich übrigens grob der gängigen Euronorm zuordnen
 
 Zwei Beispiele verdeutlichen die Berechnung der Kfz-Steuer für ein Wohnmobil. Hierbei wollen wir die oben erwähnte Gewichtsgrenze von 3,5 t als Unterscheidungsmerkmal heranziehen. Im ersten Beispiel ist das Wohnmobil leichter als 3,5 t, im zweiten schwerer.
 
-***Beispiel 1: zul. Gesamtgewicht 2,9 t bei Schlüsselnummer 80\***
+**\*Beispiel 1: zul. Gesamtgewicht 2,9 t bei Schlüsselnummer 80\***
 
 Das Fahrzeug gehört zur Schadstoffgruppe S4. Seine Steuer errechnet sich wie folgt:
 
@@ -90,7 +88,7 @@ Das Fahrzeug gehört zur Schadstoffgruppe S4. Seine Steuer errechnet sich wie fo
 
 Für das schadstoffarme Wohnmobil werden jährlich 150 Euro Steuern fällig.
 
-***Beispiel 2: zul. Gesamtgewicht 6,6 t bei Schlüsselnummer 00\***
+**\*Beispiel 2: zul. Gesamtgewicht 6,6 t bei Schlüsselnummer 00\***
 
 - 6.600:200 = 33
 - 33 x 15 = **495 €**
@@ -106,8 +104,6 @@ Das manuelle Berechnen der Wohnmobilsteuer kann man sich jedoch sparen. Denn vie
 | S4                    | **800,00 €**     |
 | S2 or S3              | **1000,00 €**    |
 | alle weiteren Klassen | unbegrenzt       |
-
-
 
 ## Häufige Fragen zur KFZ-Steuer für Wohnmobile
 

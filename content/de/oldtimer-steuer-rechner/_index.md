@@ -1,7 +1,7 @@
 ---
 layout: single-de
 title: "Oldtimer KFZ Steuer Rechner – Old- und Youngtimer Steuer berechnen"
-description: "Calculate your tax rate for vehicle registered"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: yes
 banner:
@@ -10,8 +10,6 @@ banner:
 ---
 
 {{<de/oldtimer-steuer-rechner>}}
-
-
 
 Für die Berechnung der Kfz-Steuer für Ihren Oldtimer benötigen Sie keinen Steuer-Rechner. Die Oldtimer-Steuer für alle Kraftfahrzeuge beträgt **191,73 €** pro Jahr. Bei Motorrädern werden **46,02 €** pro Jahr als Steuer berechnet.
 

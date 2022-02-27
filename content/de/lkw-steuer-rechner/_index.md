@@ -1,7 +1,7 @@
 ---
 layout: single-de
 title: "LKW Steuerrechner - LKW Steuer berechnen » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: yes
 banner:

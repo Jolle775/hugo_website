@@ -1,7 +1,7 @@
 ---
 layout: single-de
 title: "Elektroauto KFZ Steuer Rechner, Steuer für Elektrofahrzeuge berechnen"
-description: "Calculate your tax rate for vehicle registered"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: yes
 banner:
@@ -11,23 +11,17 @@ banner:
 
 {{<de/elektrofahrzeug-steuer-rechner>}}
 
-
-
 Elektrofahrzeuge haben zahlreiche Vorteile und erfreuen sich immer größerer Beliebtheit. Einer der Vorteile ist der sehr günstige Steuersatz, bzw. die Steuerbefreiung für 10 Jahre für erstmalig zugelassene Elektrofahrzeuge. Wie hoch die Kfz-Steuer für Ihr Elektroauto ist, erfahren Sie schnell und einfach mit dem Kfz-Steuer Rechner für Elektrofahrzeuge. Im Gegensatz zu konventionellen Autos ist hier lediglich das zulässige Gesamtgewicht ausschlaggebend.
 
 Wissen Sie bereits, ob und wie viel Kfz-Steuer für Ihr Elektroauto anfällt? Mit dem kostenlosen Kfz-Steuer Rechner für Elektrofahrzeuge ermitteln Sie die Höhe der Kfz-Steuer individuell für Ihr Fahrzeug - schnell und einfach. Jetzt live und unverbindlich berechnen.
 
 {{<de/call8>}}
 
-
-
 ## Vorteile rein elektrischer Antriebe
 
 Elektroautos sind leise und verbrauchen keinerlei Brennstoff, damit stoßen sie auch keine Schadstoffe aus. Trotz technischer Einschränkungen besonders bei der Reichweite steigt die Akzeptanz bei den Autofahrern, wenn auch nicht so sehr, wie es sich die Regierung und Umweltverbände wünschen.
 
 {{<de/call9>}}
-
-
 
 Die Förderungen für eine Neuanschaffung werden leider nur schleppend abgerufen, das einst ausgerufene Ziel von Bundeskanzlerin Angela Merkel von einer Million Elektroautos auf deutschen Straßen scheint in naher Zukunft nicht erreichbar.
 
@@ -75,8 +69,6 @@ Der Gesetzgeber erlaubt in diesem Fall eine Abrundung auf **78 €**.
 Noch einfacher als die händische Berechnung der Elektroauto Steuer ist die Verwendung unseres **Kfz-Steuerrechner für Elektrofahrzeuge**. Hier sind nur wenige Angaben und kaum Klicks nötig, um innerhalb weniger Sekunden die Kfz-Steuer für Elektroautos zu berechnen.
 
 Geben Sie dafür einfach die zulässige Gesamtmasse Ihres Elektroautos in Kilogramm ein und wählen Sie den Anmeldezeitraum. Die zulässige Gesamtmasse finden Sie ganz einfach in der Zulassungsbescheinigung Teil I in Feld F.2.
-
-
 
 ## Häufige Fragen
 

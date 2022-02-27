@@ -1,7 +1,7 @@
 ---
 layout: single-de
 title: "Motorrad Steuer - Kfz Steuer Rechner für Motorräder » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: yes
 banner:
@@ -15,11 +15,7 @@ Die KFZ Steuer für Motorräder ist lediglich abhängig vom jeweiligen Hubraum (
 
 Motorradfahren wird in Deutschland vergleichsweise gering besteuert. Die Besteuerungsgrundlagen unterscheiden sich ein wenig von denen bei Autos. Für einige Zweiräder entfallen die Steuern ganz. Zudem können Motorradfahrer mit einem Saisonkennzeichen Steuern und Versicherung sparen.
 
-
-
 {{<de/call2>}}
-
-
 
 ## Kategorien der Motorradsteuer
 
@@ -70,7 +66,5 @@ Auch Motorräder können **Oldtimer** sein. Die teuren Liebhaberstücke werden e
 Der Status wird bei jeder Hauptuntersuchung neu überprüft. Die Pflege eines Oldtimers ist dementsprechend aufwendig. Steuerlich greift die Vergünstigung erst bei einem Hubraum über 625 cm³.
 
 ## Häufige Fragen zur KFZ-Steuer für Motorräder
-
-
 
 {{<de/faq3>}}

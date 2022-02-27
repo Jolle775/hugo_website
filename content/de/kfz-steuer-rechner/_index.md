@@ -1,7 +1,7 @@
 ---
 layout: single-de
 title: "KFZ Steuer Rechner 2022 » Hier schnell & einfach berechnen"
-description: "Calculate your tax rate for vehicle registered"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: yes
 banner:
@@ -27,12 +27,12 @@ Durch das neue, einheitliche Prüfverfahren wird Fahrzeughaltern von neuen Kraft
 
 Alle Daten, die Sie für die Ermittlung der Kraftfahrzeugsteuer benötigen, finden Sie in der Zulassungsbescheinigung Teil I oder im Fahrzeugschein. Um Ihnen die gezielte Suche nach den richtigen Daten zu erleichtern, finden Sie in einer übersichtlichen Tabelle alle benötigten Angaben inklusive der Stelle, an der sie in den Papieren vermerkt sind.
 
-| Daten zu:                 | Finden Sie unter                                             | Besonderheiten                                               |
-| ------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Kohlendioxidausstoß       | V7 in der Zulassungsbescheinigung Teil I                     | In vor 2009 ausgestellten Fahrzeugscheinen ist dieser Wert nicht vermerkt |
-| Benzin- oder Dieselmotor? | P3 in der Zulassungsbescheinigung Teil I, im alten Fahrzeugschein unter Punkt 5 |                                                              |
-| Hubraumgröße              | P1 in der Zulassungsbescheinigung Teil I, im alten Fahrzeugschein unter Punkt 8 |                                                              |
-| Datum der Erstzulassung   | Punkt B in der Zulassungsbescheinigung Teil I, im alten Fahrzeugschein unter Punkt 32 |                                                              |
+| Daten zu:                 | Finden Sie unter                                                                      | Besonderheiten                                                            |
+| ------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Kohlendioxidausstoß       | V7 in der Zulassungsbescheinigung Teil I                                              | In vor 2009 ausgestellten Fahrzeugscheinen ist dieser Wert nicht vermerkt |
+| Benzin- oder Dieselmotor? | P3 in der Zulassungsbescheinigung Teil I, im alten Fahrzeugschein unter Punkt 5       |                                                                           |
+| Hubraumgröße              | P1 in der Zulassungsbescheinigung Teil I, im alten Fahrzeugschein unter Punkt 8       |                                                                           |
+| Datum der Erstzulassung   | Punkt B in der Zulassungsbescheinigung Teil I, im alten Fahrzeugschein unter Punkt 32 |                                                                           |
 
 ## Aus welchen Faktoren setzt sich die Kfz-Steuer zusammen?
 
@@ -87,10 +87,6 @@ Nicht jedes Kraftfahrzeug ist steuerpflichtig beziehungsweise muss den vollen St
 - **Youngtimer**, die knapp unter 30 Jahre alt sind, werden nach dem vor 2009 geltenden System besteuert. Die Steuer kann einfach mit unserem Kfz-Steuerrechner für PKW berechnet werden.
 - **PKW von Menschen mit Schwerbehindertenausweis** Fahrzeughalter, die einen Schwerbehindertenausweis besitzen, werden von der Kfz-Steuer befreit. Das gilt für alle, in deren Ausweis der Vermerk „H“, „Bl“ oder „aG“ steht.
 
-
-
 ## Häufige Fragen zum KFZ-Steuer-Rechner
-
-
 
 {{<de/faq2>}}

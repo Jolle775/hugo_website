@@ -1,7 +1,7 @@
 ---
 layout: single-de
 title: "Wohnwagen KFZ Steuer Rechner » Berechnen sie hier Ihre Wohnwagensteuer"
-description: "Calculate your tax rate for vehicle registered"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: yes
 banner:
@@ -13,11 +13,7 @@ banner:
 
 Für die Berechnung der Kfz-Steuer gelten Wohnwagen als zulassungspflichtige Anhänger. Damit orientiert sich die Berechnung, ebenso wie bei anderen Anhängern, am zulässigen Gesamtgewicht. Die Höhe der Steuer für ihren Wohnwagen lässt sich mit unserem Wohnwagen-Steuer-Rechner einfach und schnell berechnen. Somit erfahren Sie sofort, wie viel Steuer auf sie zukommt.
 
-
-
 {{<de/call4>}}
-
-
 
 ## Wie wird die Steuer für Wohnwagen berechnet?
 

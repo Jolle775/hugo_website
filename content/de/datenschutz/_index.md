@@ -1,6 +1,7 @@
 ---
-title: "Vehicle tax calculator for Germany » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+layout: single-de
+title: "Datenschutzerklärung » kfz-steuer.wiki"
+description: Kfz-Steuer ist ein wichtiges Thema für alle Fahrzeughalter. Erfahren Sie hier alles was Sie wissen müssen. Jetzt informieren & kostenlos Kfz-Steuer berechnen."
 top_menu:
   enable: false
 banner:
@@ -249,7 +250,7 @@ Bei Google gespeicherte Daten auf Nutzer- und Ereignisebene, die mit Cookies, Nu
 
 ### Hotjar
 
-Diese Website nutzt Hotjar. Anbieter ist die Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe (Website: [https://www.hotjar.com](https://kfz-steuer.wiki/en/privacy/)).
+Diese Website nutzt Hotjar. Anbieter ist die Hotjar Ltd., Level 2, St Julians Business Centre, 3, Elia Zammit Street, St Julians STJ 1000, Malta, Europe (Website: [https://www.hotjar.com](https://kfz-steuer.wiki/de/datenschutz/)).
 
 Hotjar ist ein Werkzeug zur Analyse Ihres Nutzerverhaltens auf dieser Website. Mit Hotjar können wir u. a. Ihre Maus- und Scrollbewegungen und Klicks aufzeichnen. Hotjar kann dabei auch feststellen, wie lange Sie mit dem Mauszeiger auf einer bestimmten Stelle verblieben sind. Aus diesen Informationen erstellt Hotjar sogenannte Heatmaps, mit denen sich feststellen lässt, welche Websitebereiche vom Websitebesucher bevorzugt angeschaut werden.
 
@@ -329,4 +330,4 @@ Wenn Ihr Browser Web Fonts nicht unterstützt, wird eine Standardschrift von Ihr
 
 Weitere Informationen zu Google Web Fonts finden Sie unter https://developers.google.com/fonts/faq und in der Datenschutzerklärung von Google: https://policies.google.com/privacy?hl=de.
 
-# Privacy
+# Datenschutzerklärung
