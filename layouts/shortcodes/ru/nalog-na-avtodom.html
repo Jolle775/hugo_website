@@ -1,0 +1,124 @@
+<div class="calculator-container pure-form pure-form-stacked">
+  <div class="inner-calc">
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Класс эмиссии CO₂ <sub>*</sub
+          ><span class="tooltiptext"
+            ><strong>Класс эмиссии CO₂</strong> <br />
+            Эмисcия CO₂ определяется в рамках экологических норм. Это важный
+            фактор, определяющий сумму налога: больше выбросов – выше налог.
+            Класс эмисcии указан в техпаспорте, ч. «I», п. «14». В техпаспортах
+            выданных до 2005 года, эта информация находится в п. «1».</span
+          ></label
+        >
+        <select
+          class="form-control qm-sm-12-12 qm-md-12-12 jsCalcRvEmissionSelect"
+          name="emmision-class"
+        >
+          <option value="">--выбрать--</option>
+          <option value="a1">S4 и выше</option>
+          <option value="a2">S2 или S3</option>
+          <option value="a3">другой</option>
+        </select>
+      </div>
+      <div class="qm-md-6-12 qm-sm-12-12 p-l-10">
+        <label class="tooltip"
+          >Допустимая общая масса в КГ <sub>*</sub
+          ><span class="tooltiptext"
+            >Допустимая общая масса указана в техпаспорте, ч. «I», поле «F.2».
+            Обратите внимание, что она может отличаться от технически допустимой
+            общей массы.</span
+          ></label
+        >
+        <input
+          class="qm-sm-12-12 qm-md-12-12 numeric-input jsCalcRvTotalInput"
+          type="number"
+          name="total-mass"
+        />
+      </div>
+    </div>
+    <div class="pure-g row">
+      <div class="qm-md-12-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Длительность регистрации<span class="tooltiptext"
+            ><strong>Сезонная регистрация</strong> <br />
+            ТС также можно регистрировать лишь на определённый срок.
+            Длительностью от 2 до 11 месяцев. Такая сезонная регистрация
+            обозначается двумя цифрами, которые проштампованы с правой стороны
+            номерного знака. В течение этого периода ТС может перемещаться по
+            дорогам общего пользования.</span
+          ></label
+        >
+      </div>
+      <div
+        class="button-group qm-sm-12-12 qm-md-6-12 seasonbuttons p-r-10"
+        role="group"
+      >
+        <button
+          class="button qm-sm-6-12 jsCalcRvStandardBtn button-active"
+          type="submit"
+          name="button_1"
+        >
+          Постоянная
+        </button>
+        <button
+          class="button qm-sm-6-12 jsCalcRvSeasonalBtn"
+          type="submit"
+          name="button_2"
+        >
+          Сезонная
+        </button>
+      </div>
+    </div>
+    <div class="pure-g jsCalcRvMonths" id="season-div" hidden="">
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-r-10" role="group">
+        <label for="month_from">С</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcRvMonthsSelectFrom"
+          name="month_from"
+          id="month_from"
+        >
+          <option value="1" selected="">Январь</option>
+          <option value="2">Февраль</option>
+          <option value="3">Март</option>
+          <option value="4">Апрель</option>
+          <option value="5">Май</option>
+          <option value="6">Июнь</option>
+          <option value="7">Июль</option>
+          <option value="8">Август</option>
+          <option value="9">Сентябрь</option>
+          <option value="10">Октябрь</option>
+          <option value="11">Ноябрь</option>
+        </select>
+      </div>
+
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-l-10" role="group">
+        <label for="month_to">По</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcRvMonthsSelectTo"
+          name="month_to"
+          id="month_to"
+        >
+          <option value="2" selected="">Февраль</option>
+          <option value="3">Март</option>
+          <option value="4">Апрель</option>
+          <option value="5">Май</option>
+          <option value="6">Июнь</option>
+          <option value="7">Июль</option>
+          <option value="8">Август</option>
+          <option value="9">Сентябрь</option>
+          <option value="10">Октябрь</option>
+          <option value="11">Ноябрь</option>
+          <option value="12">Декабрь</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="calculator-message jsCalcRvResult">
+    <h2>Транспортный налог составит:</h2>
+    <span class="result_number jsCalcRvResultValue">0,00 €</span>
+    <h2></h2>
+  </div>
+</div>

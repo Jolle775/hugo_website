@@ -1,0 +1,19 @@
+<div class="pure-g">
+  <div class="qm-sm-12-12">
+    <div class="vehicle share-box-content">
+      <div class="vehicle-list">
+        {{ $currentPage := . }} {{ range .Site.Menus.ru }}
+        <!---->
+        {{ $active := or (eq $.URL .URL) (or ($currentPage.HasMenuCurrent "ru"
+        .) ($currentPage.IsMenuCurrent "ru" .)) }}
+        <a class="color {{ if $active }}active{{ end }}" href="{{ .URL }}">
+          <svg class="icon {{ if $active }}active{{ end }}">
+            <use xlink:href="#{{.Pre}}" />
+          </svg>
+          <div class="sub-text show-for-medium">{{ .Name }}</div>
+        </a>
+        {{ end}}
+      </div>
+    </div>
+  </div>
+</div>

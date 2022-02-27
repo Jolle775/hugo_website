@@ -1,0 +1,201 @@
+<div class="calculator-container pure-form pure-form-stacked">
+  <div class="inner-calc">
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Дата первой регистрации <sub>*</sub
+          ><span class="tooltiptext"
+            ><strong>Дата первой регистрации (Erstzulassung - EZ)</strong>
+            <br />
+            Дата первой регистрации указана в техпаспорте, ч. «I», п. «B».</span
+          ></label
+        >
+
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarRegistrationSelect"
+          name="engine-type"
+        >
+          <option value="">--выбрать--</option>
+          <option value="a1">до 30.06.2009</option>
+          <option value="a2">с 01.07.2009 по 31.12.2011</option>
+          <option value="a3">с 01.01.2012 по 31.12.2013</option>
+          <option value="a4">с 01.01.2014 по 31.12.2020</option>
+          <option value="a5">после 01.01.2021</option>
+        </select>
+      </div>
+      <div class="qm-md-6-12 qm-sm-12-12 p-l-10">
+        <label class="tooltip"
+          >Объём в см³ <sub>*</sub
+          ><span class="tooltiptext"
+            ><strong>Объём</strong> <br />
+            Большой объём двигателя часто означает высокий расход топлива.
+            Информацию об объёме двигателя вы можете найти в техпаспорте, ч.
+            «I», п. «P.1».</span
+          ></label
+        >
+        <input
+          class="qm-sm-12-12 numeric-input jsCalcCarDisplacementInput"
+          type="number"
+          name="displacement"
+        />
+      </div>
+    </div>
+
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <label class="tooltip"
+          >Тип ДВС <sub>*</sub
+          ><span class="tooltiptext"
+            >Выберите «Дизельный», если в вашем автомобиле установлен двигатель
+            с самовоспламенением от сжатия. Для автомобилей с искровым
+            зажиганием выберите «Бензиновый / двигатель Ванкеля»</span
+          ></label
+        >
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarEngineSelect"
+          name="engine-type"
+        >
+          <option value="">--выбрать--</option>
+          <option value="c1">Бензиновый / двигатель Ванкеля</option>
+          <option value="c2">Дизельный</option>
+        </select>
+      </div>
+
+      <div class="qm-md-6-12 qm-sm-12-12 p-l-10">
+        <div class="jsCalcCarEmission" hidden="">
+          <label class="tooltip"
+            >Класс эмиссии CO₂ <sub>*</sub
+            ><span class="tooltiptext"
+              ><strong>Класс эмиссии CO₂</strong> <br />
+              Эмисcия CO₂ определяется в рамках экологических норм. Это важный
+              фактор, определяющий сумму налога: больше выбросов – выше налог.
+              Класс эмисcии указан в техпаспорте, ч. «I», п. «14». В
+              техпаспортах выданных до 2005 года, эта информация находится в п.
+              «1».</span
+            ></label
+          >
+          <select
+            class="form-control qm-sm-12-12 jsCalcCarEmissionSelect"
+            name="emmision-class"
+          >
+            <option value="">--выбрать--</option>
+            <option value="b1">Евро 3, D3 и выше</option>
+            <option value="b2">Евро 2</option>
+            <option value="b3">Евро 1</option>
+            <option value="b4">
+              Евро 0 (Вождение разрешено во время тревоги озоном)
+            </option>
+            <option value="b5">другой</option>
+          </select>
+        </div>
+        <div class="jsCalcCarCo2" hidden="">
+          <label class="tooltip"
+            >Эмисcия CO₂ в г/км <sub>*</sub
+            ><span class="tooltiptext"
+              >Введите значение эмисcии CO₂ вашего автомобиля. Эту информацию
+              можно найти в техпаспорте, ч. «I», поле «V.7». <br />
+              <br />
+              Налоговые льготы рассчитываются следующим образом: <br />
+              Для автомобилей с первой регистрацией в период с 01.07.2009 по
+              31.12.2011: 120 г/км. <br />
+              Для автомобилей с первой регистрацией в период с 01.01.2012 по
+              31.12.2013: 110 г/км. <br />
+              Для автомобилей с первой регистрацией после 01.01.2014: 95
+              г/км</span
+            ></label
+          >
+          <input
+            class="qm-sm-12-12 numeric-input jsCalcCarCo2Input"
+            type="number"
+            name="co2-emissions"
+          />
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g row">
+      <div class="qm-md-6-12 qm-sm-12-12 p-r-10">
+        <div class="pure-g">
+          <div class="qm-md-12-12 qm-sm-12-12">
+            <label class="tooltip"
+              >Длительность регистрации<span class="tooltiptext"
+                ><strong>Сезонная регистрация</strong> <br />
+                ТС также можно регистрировать лишь на определённый срок.
+                Длительностью от 2 до 11 месяцев. Такая сезонная регистрация
+                обозначается двумя цифрами, которые проштампованы с правой
+                стороны номерного знака. В течение этого периода ТС может
+                перемещаться по дорогам общего пользования.</span
+              ></label
+            >
+          </div>
+          <div class="button-group qm-sm-12-12 seasonbuttons" role="group">
+            <button
+              class="button qm-sm-6-12 jsCalcCarStandardBtn button-active"
+              type="submit"
+              name="button_1"
+            >
+              Постоянная
+            </button>
+            <button
+              class="button qm-sm-6-12 jsCalcCarSeasonalBtn"
+              type="submit"
+              name="button_2"
+            >
+              Сезонная
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="pure-g row jsCalcCarMonths" id="season-div" hidden="">
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-r-10" role="group">
+        <label for="month_from">С</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarMonthsSelectFrom"
+          name="month_from"
+          id="month_from"
+        >
+          <option value="1" selected="">Январь</option>
+          <option value="2">Февраль</option>
+          <option value="3">Март</option>
+          <option value="4">Апрель</option>
+          <option value="5">Май</option>
+          <option value="6">Июнь</option>
+          <option value="7">Июль</option>
+          <option value="8">Август</option>
+          <option value="9">Сентябрь</option>
+          <option value="10">Октябрь</option>
+          <option value="11">Ноябрь</option>
+        </select>
+      </div>
+
+      <div class="button-group qm-sm-6-12 qm-md-6-12 p-l-10" role="group">
+        <label for="month_to">По</label>
+        <select
+          class="form-control qm-sm-12-12 jsCalcCarMonthsSelectTo"
+          name="month_to"
+          id="month_to"
+        >
+          <option value="2">Февраль</option>
+          <option value="3">Март</option>
+          <option value="4">Апрель</option>
+          <option value="5">Май</option>
+          <option value="6">Июнь</option>
+          <option value="7">Июль</option>
+          <option value="8">Август</option>
+          <option value="9">Сентябрь</option>
+          <option value="10">Октябрь</option>
+          <option value="11">Ноябрь</option>
+          <option value="12">Декабрь</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="calculator-message jsCalcCarResult">
+    <h2>Транспортный налог составит:</h2>
+    <span class="result_number jsCalcCarResultValue">0,00 €</span>
+    <h2></h2>
+  </div>
+</div>

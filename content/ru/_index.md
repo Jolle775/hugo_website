@@ -1,169 +1,192 @@
 ---
-layout: single
-title: "Vehicle tax calculator for Germany » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+layout: single-ru
+title: "Расчёт транспортного налога – простой расчёт для вашего автомобиля"
+description: "Транспортный налог является важной проблемой для всех владельцев транспортных средств. Узнайте всё, что вам нужно знать здесь. Получить информацию и произвести расчеты."
 top_menu:
   enable: false
 banner:
-  title: "ehicle tax calculator for Germany"
-  sub_title: "Please select your vehicle"
+  title: "Транспортный налог в Германии"
+  sub_title: "Выберите тип ТС"
 ---
 
-{{<en/home>}}
+{{<ru/home>}}
 
-The motor vehicle tax is a very extensive and complex subject. In this article, we therefore only want to deal with its most important framework conditions and some special features. Further information on motor vehicle tax can be found at the end of this article.
+Автомобильный налог является очень обширной и сложной темой. Поэтому в этой статье мы лишь хотим разобраться с ее важнейшими рамочными условиями и некоторыми особенностями. Более подробную информацию о налоге на транспортные средства можно найти в конце этой статьи.
 
-## Type of tax
+## Тип налога
 
-The motor vehicle tax has been a federal tax since 2009; previously it was a tax of the federal states. Since 2014, the Federal Customs Administration has levied the motor vehicle tax, whose revenue in Germany amounts to almost nine billion euros annually. The customs administration is now legally responsible, but nothing has changed for drivers. Customs has only taken over the previous work of the state finance authorities.
+Автомобильный налог является **федеральным налогом** с 2009 года; ранее это был налог федеральных земель. С 2014 года **Федеральное таможенное управление** взимает налог на автотранспортные средства, доходы которого в Германии составляют почти девять миллиардов евро в год. В настоящее время таможенная администрация несет юридическую ответственность, но в отношении водителей ничего не изменилось. Таможня взяла на себя только предыдущую работу государственных налоговых органов.
 
-At regional level, the responsible main customs office collects the vehicle tax. The tax office is expressly not responsible. There are 43 main customs offices in larger cities in Germany.
+На региональном уровне налог на транспортные средства взимается главным компетентным таможенным органом. Налоговая инспекция не несет за это прямой ответственности. В крупных городах Германии насчитывается 43 главных таможенных пункта.
 
-The collection of motor vehicle tax is regulated by the Kraftfahrteuergesetz (KraftStG) and the Kraftfahrzeugsteuer-Durchführungsverordnung (Kraft StDV), as is its amount. The provisions of the Vehicle Registration Ordinance (FZV) and the Road Traffic Registration Ordinance (StVZO) also play a role.
+Сбор налога на транспортные средства регулируется **Транспортным налоговым законодательством (KraftStG)** и **Указом о введении налога на транспортные средства (Kraft StDV)** точно так же, как и его размер. Определенную роль играют также положения Правил лицензирования транспортных средств (FZV) и Правил лицензирования дорожного движения (StVZO).
 
-## Purpose of the motor vehicle tax
+## Назначение транспортного налога
 
-All states levy a motor vehicle tax because, in return, they pay from the public purse those expenses which are necessary for the infrastructure of a functioning transport system. These are not only roads and road maintenance departments, level crossings and zebra crossings, but also traffic lights, digital traffic monitoring and the work of the traffic police, which is not financed solely by parking tickets.
+Все государства взимают налог на транспортные средства, поскольку в свою очередь они оплачивают из государственного бюджета те расходы, которые **необходимы для инфраструктуры функционирующего дорожного движения**. Это не только услуги по содержанию дорог и автодорог, железнодорожные переезды и зебры, но и светофоры, цифровой мониторинг дорожного движения и работа ГАИ, которая финансируется не только за счет штрафов за парковку.
 
-Because the legislator raises the tax from the polluter (the so-called polluter pays principle), it demands it in advance. In Germany, an annual contribution is usual, which the main customs office collects by direct debit. Deviations from this are hardly planned.
+Поскольку законодатель взимает налог с загрязнителя дорожного движения (так называемый принцип “загрязнитель платит”), он требует этого заранее. В Германии **годовой взнос** является обычным явлением, которое взимается главным таможенным управлением путем путем прямого дебета. Отклонения от этого вряд ли планируются.
 
-In addition to investments in infrastructure, the funds from the motor vehicle tax also serve to promote innovative, mostly environmentally friendly technologies. This is also reflected in the design of the tax: Particularly environmentally friendly vehicles pay only a very low vehicle tax or are (even temporarily) completely exempt from it.
+Помимо инвестиций в инфраструктуру, средства, получаемые от налога на транспортные средства, служат также для **поощрения инновационных, в основном экологически чистых технологий**. Это также отражается в структуре налога: особенно экологически чистые транспортные средства платят только очень низкий налог на транспортные средства или (даже временно) полностью освобождены от него.
 
-In general, the level of the tax for many vehicles depends on their pollutant class. With such regulations, the motor vehicle tax as an expense tax in Germany has been further developed in the last century. It has been in existence since 1906, for a long time only the engine capacity of the car was decisive for the amount of the tax.
+В целом, размер налога для многих транспортных средств зависит от класса их загрязняющих веществ. В Германии налог на транспортные средства в качестве налога на расходы в прошлом столетии получил дальнейшее развитие благодаря таким нормативным актам. Она существует с 1906 года, долгое время только кубическая вместимость вагона определяла размер налога.
 
-## Who pays the vehicle tax?
+## Кто платит налог на транспортные средства?
 
-Owners and in special cases users of motor vehicles pay this tax. In return, they receive a registration number as a service provided by the state.
+**Хранители и, в особых случаях, пользователи автотранспортных средств** уплачивают этот налог. Взамен они получают регистрационный номер в качестве услуги, предоставляемой государством.
 
-Motor vehicles are all vehicles driven by an engine that travel on the road and not or not exclusively by rail. The taxable owners may have registered the vehicle within the country, the tax is due regardless of the actual use.
+Автомобили - это все транспортные средства, приводимые в движение двигателем, который движется по автомобилю, а не только по железной дороге или не только по железной дороге. Налогооблагаемые держатели могут зарегистрировать транспортное средство в пределах страны, налог подлежит уплате независимо от фактического использования.
 
-Vehicles registered abroad are also taxable in Germany if their owner has his main residence in Germany. Furthermore, even vehicles that are not registered, i.e. illegally used (or parked in public space) are subject to tax.
+Транспортные средства, зарегистрированные **за рубежом**, также облагаются налогом в Германии, если их владелец имеет свое основное место жительства в Германии. Кроме того, налогом облагаются даже те транспортные средства, которые не зарегистрированы и поэтому используются незаконно (или припаркованы в общественных местах).
 
-The amount of tax can be determined according to the type of vehicle, and there are also tax exemptions and reductions due to the purpose of use. For example, there are special tax rates for classic cars that can drive continuously with the H-plate and for vehicles with red plates that are used for transfer, test and trial runs. A vehicle with a red number plate for test drives alone is exempt from vehicle tax. Its registration number begins with 05.
+Сумма **налога** может быть определена в зависимости от типа транспортного средства, а также предоставляются налоговые льготы и скидки в связи с предполагаемым использованием. Существуют **специальные налоговые ставки для [Ретрокаров](https://kfz-steuer.wiki/ru/nalog-na-retrokar/)**, которые могут ездить непрерывно с H-образной пластиной, и для автомобилей с **красными пластинами**, которые используются для передачи, тестирования и тестовых поездок. Транспортное средство с красным регистрационным знаком только для тест-драйвов освобождается от налога на транспортные средства. Его регистрационный номер начинается с 05.
 
-The taxpayers may be different persons for the registration types mentioned. The motor vehicle tax law determines in § 7 as tax debtor
+Налогоплательщиками могут быть разные лица по указанным видам доверенностей. В § 7 Закона о налоге на транспортные средства в качестве налогоплательщиков определяется следующее
 
-- for domestic vehicles, the keeper (to whom the vehicle is registered),
-- in the case of foreign vehicles, the domestic user,
-- in the case of vehicles used unlawfully, the unlawful user and
-- For red indicators, the person to whom the indicator was assigned.
+- для отечественных транспортных средств, хранитель (на которого зарегистрировано транспортное средство),
+- для иностранных транспортных средств, отечественного потребителя,
+- в случае незаконного использования транспортных средств, незаконный пользователь и
+- Для красных индикаторов - лицо, которому был назначен индикатор.
 
-## Vehicle Tax: Unlimited Tax Exemptions
+## Автомобильный налог: неограниченные налоговые льготы
 
-Some vehicles are exempt from vehicle tax. The purpose, the keeper and/or the type of vehicle are decisive. There are both permanent and temporary exemptions.
+Некоторые транспортные средства освобождены от уплаты транспортного налога. Решающее значение имеют **назначение**, **держатель** и/или **тип транспортного средства**. Существуют как **постоянные, так и временные исключения**.
 
-For example, agricultural and forestry machinery is used tax-free. These include
+Например, сельскохозяйственная и лесная техника не облагается налогами. К ним относятся
 
-- Tractors
-- special-purpose vehicles
-- pendant
+- Тракторы
+- спецтехника
+- Кулон
 
-Excluded from this are tractor units and their trailers.
+Исключение составляют тягачи и их прицепы.
 
-Vehicles for very special tasks are also exempt from tax. These are vehicles for the following areas of application:
+Транспортные средства для выполнения особых задач также освобождаются от уплаты налогов. Это транспортные средства для следующих областей применения:
 
-- Fire brigade
-- Rescue service (ambulance)
-- civil defence
-- disaster control
-- street cleaning
-- road construction
-- Buses in regular service
-- customs
-- German Armed Forces
-- police
+- Feuerwehr
+- Rettungsdienst (Krankenwagen)
+- Zivilschutz
+- Katastrophenschutz
+- Straßenreinigung
+- Wegebau
+- Busse im Linienverkehr
+- Zoll
+- Bundeswehr
+- Polizei
+- Пожарная охрана
+- Спасательная служба (скорая помощь)
+- Гражданская оборона
+- ликвидация последствий стихийных бедствий
+- Уборка улиц
+- Строительство дорог
+- Автобусы в регулярном сообщении
+- Таможня
+- Немецкие вооруженные силы
+- Полиция
 
-In addition, there is no motor vehicle tax for light motorcycles up to 11 kW and 125 cm³ cubic capacity, for self-propelled machines and motorised patient elevators.
+Кроме того, не взимается налог на легкие мотоциклы объемом до 11 кВт и 125 см³ куб.см. для самоходных машин и моторизованных лифтов для пациентов.
 
-## Vehicle tax: Temporary tax exemptions
+## Kfz-Steuer: Befristete Steuerbefreiungen
 
-While the tax exemptions just mentioned apply generally (permanently), there is a temporary tax exemption for electric vehicles. This depends on the date of first registration. Until 17.05.2011 five years tax exemption were fixed, from 18.05.2011 - 31.12.2015 then ten years, from 01.01.2016 - 31.12.2020 again five years. Thereafter, a tax reduction of 50 percent will apply to each of these vehicles.
+Während die soeben genannten Steuerbefreiungen generell (dauernd) gelten, gibt es für **[Elektrofahrzeuge](https://kfz-steuer.wiki/de/elektrofahrzeug-steuer-rechner/) eine befristete Steuerbefreiung**. Diese richtet sich nach dem Erstzulassungsdatum. Bis 17.05.2011 wurden fünf Jahre Steuerbefreiung festgesetzt, vom 18.05.2011 - 31.12.2015 dann zehn Jahre, vom 01.01.2016 - 31.12.2020 wieder fünf Jahre. Danach gilt jeweils eine Steuerermäßigung von 50 Prozent für diese Fahrzeuge.
 
-Foreign passenger cars also benefit from a temporary tax exemption for one year. The prerequisite for this, however, is that they are not used for the carriage of goods or passengers against payment.
+## Налог на транспортные средства: временные налоговые льготы
 
-There was also a temporary tax exemption until 31.12.2013 for emission-reduced diesel passenger cars registered from 01.01.2011 - 31.12.2013. The engines had to comply with the Euro 6 standard (Motor Vehicle Tax Act § 3b).
+Хотя только что упомянутые налоговые льготы обычно (постоянно) применяются, существует временное освобождение для **[электрокаров] (/ru/nalog-na-elektrokar/)**. До 17.05.2011 года было установлено пятилетнее освобождение от уплаты налогов, с 18.05.2011 по 31.12.2015 - 10 лет, с 01.01.2016 по 31.12.2020 - еще пять лет. После этого на каждое из этих транспортных средств будет распространяться скидка в размере 50 процентов.
 
-## Tax exemption for certain keepers
+**Иномарки** также пользуются временным освобождением от уплаты налога сроком на один год. Однако условием для этого является то, что они не используются для перевозки грузов или пассажиров за плату.
 
-Severely handicapped persons receive tax exemption for their motor vehicle if their severely handicapped ID card contains one of the abbreviations H, BI or aG (helplessness, blindness or extraordinary walking disability).
+Также действовало временное освобождение от уплаты налога до 31.12.2013 г. для **дизельных легковых автомобилей с пониженным уровнем выбросов** и регистрацией с 01.01.2011 г. по 31.12.2013 г. Для этого двигатели должны были соответствовать стандарту Евро 6 (Закон о налоге на транспортные средства § 3b).
 
-This regulation is based on a more recent legal situation. Those severely disabled persons who were already exempt from motor vehicle tax under the previous laws of 1979 remain exempt if they are VB (entitled to care), KB (war-damaged) or EB (entitled to compensation). They are former soldiers with severe injuries, seriously war-affected and victims of National Socialist injustice.
+## Освобождение от уплаты налогов для некоторых владельцев
 
-The carnies are another group of people who are generally exempt from motor vehicle tax. Their vehicle must be used exclusively for commercial purposes. These are their caravans from 3.5 tons, tractors and luggage vans from 2.5 tons.
+**Инвалиды** освобождаются от уплаты налога на транспортное средство, если их удостоверение личности содержит одно из аббревиатур H, BI или aG (беспомощность, слепота или исключительная инвалидность при ходьбе).
 
-## Application for tax exemption
+Это постановление основано на более поздней правовой ситуации. Лица с тяжелой формой инвалидности, которые уже были освобождены от уплаты налога на транспортные средства в соответствии с предыдущими законами 1979 года, продолжают освобождаться, если они являются инвалидами VB (имеют право на уход), KB (поврежденными военными действиями) или EB (имеющими право на компенсацию), если они по меньшей мере на 50%. Это бывшие солдаты с тяжелыми ранениями, серьезно пострадавшие от войны и пострадавшие от национал-социалистической несправедливости.
 
-Some exemptions from vehicle tax are granted only on request. This must be submitted to the registration authority for agricultural and forestry vehicles and to the main customs office for vehicles of severely disabled keepers. Electric vehicles, self-propelled working machines and motorised patient elevators are automatically exempt without an application.
+Другой группой лиц с общим освобождением от уплаты налога на транспортные средства являются **экспоненты**. Их автомобиль должен использоваться исключительно в коммерческих целях. Это их караваны от 3,5 тонн, тракторы и фургоны для перевозки багажа от 2,5 тонн.
 
-If a tax exemption was granted on application, but the reason for it no longer applies (for example, a carny now uses his vehicle privately), this must be notified immediately in writing to the competent authority. Failure to do so would result in a frivolous tax reduction and, in the case of a higher amount of tax evasion (longer and/or for many vehicles), tax evasion.
+## Ходатайство об освобождении от уплаты налогов
 
-Vehicles exempt from motor vehicle tax carry special green plates, which they receive from the registration authority. However, this does not apply to all exempt vehicles. Excluded are severely disabled vehicles, mopeds, low emission vehicles, official vehicles and vehicles of diplomats and consulates.
+Некоторые льготы по налогу на транспортные средства предоставляются только по запросу. Это заявление должно быть подано в орган регистрации сельскохозяйственных и лесных транспортных средств и в главный таможенный пункт для транспортных средств лиц с тяжелой формой инвалидности. Электромобили, самоходные рабочие машины и моторизованные лифты для пациентов автоматически освобождаются без применения.
 
-## Refund of vehicle tax
+Если освобождение от уплаты налогов было предоставлено по заявлению, но причина отказа от него более не действует (например, в настоящее время автомобиль используется водителем в частном порядке), об этом необходимо незамедлительно уведомить компетентный орган в письменной форме. Невыполнение этого требования приведет к необоснованному снижению налогов и, в случае большего объема уклонения от уплаты налогов (более длительный и/или для многих транспортных средств), к уклонению от уплаты налогов.
 
-Under special circumstances there is a refund of the motor vehicle tax (motor vehicle tax law § 4). This is the case if a vehicle has been transported often (at least 125 times a year) by rail. It does not matter how far the entire journey was and whether parts of it were covered by the vehicle itself. For slightly fewer journeys there are partial refunds, for example 75% for 94 journeys or more. The refund must be applied for in writing and a documentation (ticket) must be enclosed.
+Транспортные средства, освобожденные от уплаты налога на транспортные средства, имеют специальные зеленые знаки, которые они получают от регистрирующих органов. Однако это относится не ко всем освобожденным от уплаты налогов транспортным средствам. Исключение составляют транспортные средства с тяжелой степенью инвалидности, мопеды, низкоуглеродные транспортные средства, служебные транспортные средства и транспортные средства дипломатов и консульств.
 
-## Vehicle tax reduction
+## Возврат транспортного налога
 
-In certain cases a reduction is possible, often by 50%. This applies to severely disabled people with an orange-coloured imprint on their severely disabled ID card and the entry G (walking disability) or GI (deafness).
+При особых обстоятельствах производится возврат налога на транспортные средства (Закон о налоге на транспортные средства § 4). Это имеет место, если транспортное средство часто (не менее 125 раз в год) перевозилось по железной дороге. Не имеет значения, насколько далеко была вся поездка и были ли ее части покрыты самим транспортным средством. Для немногим меньшего количества поездок предусмотрена частичная компенсация, например, 75% за 94 и более поездки. Заявление о возврате денег должно быть подано в письменной форме с приложением документации (билета).
 
-However, the applicant must refrain from using public transport, which is otherwise free of charge, in order to benefit from the tax relief. The reduction also applies if the severely disabled person does not drive the vehicle himself. However, this may only be used for their personal needs. Here, too, the reason for the tax reduction must be reported immediately to the responsible main customs office.
+## Снижение налога на транспортные средства
 
-A further 50% reduction applies to electric vehicles after the complete tax exemption has expired. The reduction does not have to be applied for. For classic cars, their owners also pay a uniformly low tax rate.
+В некоторых случаях возможно сокращение, часто на 50%. Это относится к лицам с тяжелой формой инвалидности с отпечатком оранжевого цвета на удостоверении личности с тяжелой формой инвалидности и на въезде G (инвалидность ходьбы) или GI (глухота).
 
-## From when and for how long does a motor vehicle tax apply?
+Однако заявитель должен воздерживаться от использования общественного транспорта, который в противном случае был бы бесплатным, для того чтобы воспользоваться налоговой льготой. Уменьшение применяется также в том случае, если лицо с тяжелой степенью инвалидности не управляет транспортным средством самостоятельно. Однако это может быть использовано только для их личных нужд. Причина снижения налогов также должна быть немедленно сообщена в ответственный главный таможенный орган.
 
-With the registration also the tax liability applies. Registration allows the vehicle to be used (driven, parked) in public spaces. The holders then issue a SEPA direct debit mandate to the main customs office. When a vehicle is deregistered, its taxation automatically ends. For proper deregistration, the registration certificates and license plates must be submitted to the registration office.
+Еще 50% скидка применяется к электромобилям после полного освобождения от уплаты налогов. Заявление о сокращении не требуется. За классические автомобили их владельцы также платят равномерно низкую налоговую ставку.
 
-On sale, the previous holder’s tax liability ends on the day the vehicle is registered with the new holder. The new owner must bring the sales contract with him for the re-registration. The previous owner can also deregister the vehicle before the sale in order to protect himself from tax and insurance consequences. This usually does not happen because the buyer is then only allowed to move the vehicle with a special license plate. It is therefore always noted in the sales contracts that the buyer is obliged to re-register in a timely manner. This means about one week.
+## Когда и как долго действует налог на транспортные средства?
 
-A stolen vehicle can be deregistered, then the damaged owner’s tax liability expires. He must report the theft to the police, the main customs office and the registration authority.
+**При регистрации также действует налоговое обязательство**. Регистрация разрешает использование (вождение, парковку) транспортного средства в общественных местах. Затем владельцы выдают Главному таможенному управлению полномочия на проведение прямого дебетования SEPA. При аннулировании регистрации транспортного средства его налогообложение автоматически прекращается. Для надлежащей отмены регистрации необходимо предъявить регистрационные свидетельства и номерные знаки в регистрационный орган.
 
-A curious aspect of motor vehicle tax is that it is due when the vehicle is used illegally. During this time, the tax is also due. Whoever receives a license plate and does not deregister again must pay motor vehicle tax for the duration of the validity. This applies, among other things, to export license plates that motorists use for the permanent transfer of the vehicle abroad. They must then deregister the license plate from the German registration authority.
+При продаже обязательство предыдущего владельца по уплате налога заканчивается в день регистрации транспортного средства у нового владельца. Новый владелец должен принести с собой договор купли-продажи для перерегистрации. Предыдущий владелец также может отменить регистрацию транспортного средства до продажи, чтобы защитить себя от налоговых и страховых последствий. Обычно этого не происходит, потому что покупателю разрешается передвигать автомобиль только со специальным номерным знаком. Поэтому в договорах купли-продажи всегда указывается, что покупатель обязан своевременно пройти перерегистрацию. Это значит, около недели.
 
-The minimum period for tax liability is one month. There are also tax refunds when a vehicle is deregistered. The tax was finally paid in advance.
+Украденное транспортное средство может быть снято с регистрации, и налоговая ответственность пострадавшего владельца прекращается. Он должен сообщить о краже в полицию, главный таможенный пункт и регистрирующий орган.
 
-## Due date for motor vehicle tax
+Любопытным аспектом налога на транспортные средства является то, что он взимается, когда транспортное средство используется незаконно. В течение этого времени налог также подлежит уплате. Кто получает номерной знак и не отменяет регистрацию повторно, тот обязан уплачивать налог на транспортные средства в течение всего срока его действия. Это относится, в частности, к экспорту номерных знаков, которые автомобилисты используют для постоянной перевозки транспортного средства за границу. После этого они должны снять номерной знак с регистрации в немецком регистрационном органе.
 
-The tax is paid one year in advance from the date of registration, after which it is payable annually on that date. If the tax burden exceeds 500 euros, a half-yearly payment method is possible; if the tax burden exceeds 1,000 euros, quarterly payment is possible. Both are connected with a small surcharge and must be requested.
+Минимальный период налогового обязательства составляет один месяц. Возврат налогов возможен также при аннулировании регистрации транспортного средства. Налог был, наконец, уплачен авансом.
 
-The motor vehicle tax for foreign vehicles registered in Germany can be paid in advance for thirty days in each case during the temporary stay of the owner in Germany.
+## Дата уплаты налога на транспортные средства
 
-If it is not possible to collect the vehicle tax, the owner is sent a reminder and the vehicle is deregistered ex officio. The owner must submit his vehicle registration document to the registration authority, and the papers are also marked accordingly at the registration office. Those who do not surrender their vehicle registration papers will be caught during a police check. In addition, the registration number is unstamped and any trailer directories are corrected.
+Налог уплачивается **за год** со дня регистрации, после чего **ежегодно** в этот-же день. При налоговой нагрузке свыше 500 евро возможен полугодовой платеж, при ежеквартальном платеже более 1000 евро. Оба варианта связаны с небольшой доплатой и должны быть затребованы.
 
-## Determination of the tax rate
+**Автомобильный налог на иностранные транспортные средства, зарегистрированные в Германии**, может быть уплачен за каждое временное пребывание владельца в Германии за тридцать дней вперед.
 
-When the vehicle is registered, the registration authority establishes the relevant data for taxation. These are:
+Если не удается собрать налог на транспортное средство, владельцу напоминается об этом, и автомобиль официально дерегистрируется. Владелец транспортного средства должен представить документ о регистрации транспортного средства в регистрирующий орган, а также документы с соответствующей отметкой в регистрирующем органе. Те, кто не сдаст свои документы на регистрацию транспортного средства, будут задержаны во время полицейского досмотра. Кроме того, регистрационный номер не проштампован, и все каталоги прицепов исправлены.
 
-- Size of the cubic capacity
-- emission class
-- drive type
-- Weight (for trucks, caravans, some trailers)
-- CO₂ output
+## Определение налоговой ставки
 
-The registration office transmits the vehicle data to the responsible main customs office. The Main Customs Office determines the amount of the vehicle tax, the holder receives a tax assessment and issues the SEPA Direct Debit Mandate to the Main Customs Office. It does not necessarily have to be the holder’s own account. If the registration of a vehicle reveals tax arrears on the part of the keeper, the latter must first settle the arrears before he can register the new vehicle.
+При регистрации транспортного средства регистрирующий орган устанавливает соответствующие данные для целей налогообложения. Это так:
 
-According to the Motor Vehicle Tax Act, tax bases can change and the tax must then be reassessed. This sometimes results from changes in the law, but also from the fact that the owner is classified differently for tax purposes due to changes in his circumstances - changes in his profession, possibly a disability. A changed validity period of seasonal license plates also changes the tax. A tax change can also only be effective temporarily.
+- Размер кубической емкости
+- Класс эмиссии
+- Тип привода
+- Вес (для грузовиков, фургонов, прицепов, некоторых прицепов)
+- CO₂ Выходные данные
 
-## Factors influencing the amount of motor vehicle tax
+Регистрационный орган передает данные о транспортном средстве ответственному главному таможенному органу. Главный таможенный орган определяет сумму налога на транспортные средства, владелец получает налоговое начисление и выдает Главному таможенному органу доверенность на проведение прямого дебета SEPA. Это не обязательно должен быть собственный счет владельца. Если при регистрации транспортного средства обнаруживается налоговая задолженность со стороны владельца, то владелец транспортного средства должен сначала погасить эту задолженность, прежде чем он сможет зарегистрировать новое транспортное средство.
 
-There are various vehicle tax classes. The motor vehicle tax rate depends on the factors mentioned above, which play a different role for individual vehicles. For example, the registration date currently has a major influence, as new rules have been set for first-time registrations from 1 July 2009. In addition, there are different exemption limits for pollutant emissions depending on the registration date, which also have an influence on the amount of vehicle tax.
+В соответствии с Законом о налоге на автотранспортные средства, налоговая база может измениться, и затем налог должен быть пересмотрен. Иногда это связано с изменениями в законодательстве, но также и с тем, что владелец имеет иную налоговую квалификацию в связи с изменением обстоятельств - сменой профессии, возможно, инвалидности. Изменение срока действия сезонных номерных знаков также влечет за собой изменение налога. Налоговое изменение также может вступить в силу только временно.
 
-And depending on the engine capacity, different taxes are levied from these exemption limits, which in turn vary between gasoline and diesel engines. Weight is also relevant for Wankel engines.
+## Факторы, влияющие на размер налога на транспортные средства
 
-## Calculate the amount of motor vehicle tax
+Существуют различные налоговые классы транспортных средств. Ставка налога на транспортные средства зависит от перечисленных выше факторов, которые играют различную роль для отдельных транспортных средств. Например, дата регистрации в настоящее время имеет большое значение, поскольку с 1 июля 2009 года были установлены новые правила для регистрации в первый раз. Кроме того, в зависимости от даты регистрации существуют различные льготные лимиты на выбросы загрязняющих веществ, которые также влияют на размер налога на транспортные средства.
 
-Since the amount of the motor vehicle tax depends strongly on the influencing factors mentioned above and their combinations, the question “How much motor vehicle tax do I have to pay?
+А в зависимости от мощности двигателя, с этих пределов освобождения взимаются различные налоги, которые, в свою очередь, варьируются между бензиновыми и дизельными двигателями. Вес также важен для двигателей Wankel.
 
-It is therefore better to use the vehicle tax calculator to calculate the vehicle tax. This calculator supports you individually and quickly in calculating the tax for your vehicle. It is free of charge and easy to use. When calculating the tax for your car, for example, you only have to use the
+## Рассчитать сумму налога на транспортные средства
 
-- the date of first registration,
-- the cubic capacity and
-- specify the motor type.
-- Depending on the registration date, the vehicle tax calculator then queries the pollutant class or the CO2 emissions in g/km.
+Поскольку размер налога на транспортные средства сильно зависит от влияющих факторов и их комбинаций, возникает вопрос **„Сколько я должен заплатить налога на транспортные средства“** Трудно ответить в целом.
 
-You will find all the necessary information in your registration certificate Part 1. By moving the mouse over the respective input field description of the computer, it will also show you exactly where you will find the information on the registration certificate.
+Поэтому для расчета транспортного налога лучше использовать **[Калькулятор автомобильного налога](https://kfz-steuer.wiki/ru/nalog-na-avtomobil/)**. Это поможет Вам быстро и индивидуально рассчитать налог на транспортное средство. Он является бесплатным и простым в использовании. Например, при расчете налога на автомобиль вам нужно будет использовать только
 
-If your car is registered throughout, you do not need to make any further entries. If the vehicle is only used seasonally, you only need to enter the period.
+- дата первой регистрации,
+- кубическая вместимость и
+- Укажите тип двигателя.
+- В зависимости от даты регистрации, налоговый калькулятор транспортного средства затем запросит класс загрязнителя или выбросы CO2 в г/км.
 
-The vehicle tax calculator will then immediately show you the expected amount of vehicle tax to be paid.
+Вся необходимая информация находится в Вашем регистрационном свидетельстве Часть 1, при наведении мыши на соответствующее поле ввода описания компьютера, оно также покажет Вам, где именно Вы найдете информацию о регистрационном свидетельстве.
+
+Если ваш автомобиль зарегистрирован на протяжении всего периода, вам не нужно делать никаких дальнейших записей. Если автомобиль используется только сезонно, вам нужно ввести только этот период.
+
+Затем калькулятор транспортного средства немедленно покажет вам ожидаемую сумму транспортного налога, подлежащую уплате.
+
+## Связанные статьи в зависимости от типа транспортного средства:
+
+- [Налог на прицепы](https://kfz-steuer.wiki/ru/nalog-na-pricep/)
+- [Налог на мотоциклы](https://kfz-steuer.wiki/ru/nalog-na-motocikl/)
+- [Налог на ретрокары](https://kfz-steuer.wiki/ru/nalog-na-retrokar/)
+- [Налог на автодома](https://kfz-steuer.wiki/ru/nalog-na-avtodom/)
+- [Налог на электрокары](https://kfz-steuer.wiki/ru/nalog-na-elektrokar/)
+- [Налог на грузовики](https://kfz-steuer.wiki/ru/nalog-na-gruzovik/)

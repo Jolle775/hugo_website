@@ -165,3 +165,54 @@ title = 'New web site'
   pre = "oldtimer"
   url = '/es/antiguo-impuesto-alemania/'
   weight = 8
+
+[ru]
+[[menu.ru]]
+  identifier = 'Авто'
+  name = 'Авто'
+  pre = "pkw"
+  url = '/ru/nalog-na-avtomobil/'
+  weight = 1
+
+[[menu.ru]]
+  identifier = 'Мотоцикл'
+  name = 'Мотоцикл'
+  pre = "motorrad"
+  url = '/ru/nalog-na-motocikl/'
+  weight = 2
+
+[[menu.ru]]
+  identifier = 'Автодом'
+  name = 'Автодом'
+  pre = "wohnmobil"
+  url = '/ru/nalog-na-avtodom/'
+  weight = 3
+
+[[menu.ru]]
+  identifier = 'Грузовик'
+  name = 'Грузовик'
+  pre = "lkw"
+  url = '/ru/nalog-na-gruzovik/'
+  weight = 4
+
+
+[[menu.ru]]
+  identifier = 'Прицеп'
+  name = 'Прицеп'
+  pre = "anhaenger"
+  url = '/ru/nalog-na-pricep/'
+  weight = 6
+
+[[menu.ru]]
+  identifier = 'Электрокар'
+  name = 'Электрокар'
+  pre = "efz"
+  url = '/ru/nalog-na-elektrokar/'
+  weight = 7
+
+[[menu.ru]]
+  identifier = 'Ретрокар'
+  name = 'Ретрокар'
+  pre = "oldtimer"
+  url = '/ru/nalog-na-retrokar/'
+  weight = 8

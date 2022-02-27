@@ -1,6 +1,7 @@
 ---
-title: "Vehicle tax calculator for Germany » kfz-steuer.wiki"
-description: "Calculate your tax rate for vehicle registered"
+layout: single-ru
+title: "Контакты » kfz-steuer.wiki"
+description: "Транспортный налог является важной проблемой для всех владельцев транспортных средств. Узнайте всё, что вам нужно знать здесь. Получить информацию и произвести расчеты."
 top_menu:
   enable: false
 banner:
@@ -68,6 +69,6 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-# Imprint
+# Контакты
 
-Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/)
+Icons made by [Freepik](http://www.freepik.com/) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/)https://creativecommons.org/licenses/by/3.0/)
