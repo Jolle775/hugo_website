@@ -9,45 +9,12 @@ banner:
 ---
 
 **Angaben gemäß § 5 TMG**
-qmedia GmbH
-c/o softbox GmbH
-Ottobrunner Straße 1
-81737 München
+
 
 **Vertreten durch**
-Erkan Boga
+
 
 **Kontakt**
-Email: info@qmedia.de
-
-**Handelsregister München**
-HRB 161988
-
-**USt-IdNr. gem. § 27 UStG**
-DE 129 378 507
-
-**Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV**
-Erkan Boga
-
-**Erlaubnis nach § 34 c GewO erteilt durch das Kreisverwaltungsreferat München**
-Zuständige Aufsichtsbehörde:
-Landeshauptstadt München
-Ruppertstraße 19
-80466 München
-
-**Gerichtsstand**
-München
-
-**KFZ-Versicherung und Motorradversicherung powered by CHECK24 GmbH**
-CHECK24 Vergleichsportal für Kfz-Versicherungen GmbH
-Erika-Mann-Str. 62-66
-80636 München
-
-Tel. 089 - 2424 1212
-Fax: 089 - 200 047 1011
-E-Mail: kfz-versicherungen@check24.de
-
-[Datenschutzerklärung der CHECK24 Vergleichsportal für Kfz-Versicherungen GmbH](https://www.check24.de/kfz-versicherungen/informationspflichten_dsgvo/)
 
 
 **Verbraucher­streit­beilegung / Universal­schlichtungs­stelle**
